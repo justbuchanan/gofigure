@@ -1,0 +1,38 @@
+/* 
+   Localizable.strings
+   Precision RPN
+
+   Created by Justin Buchanan on 9/7/09.
+   Copyright 2009 JustBuchanan Software. All rights reserved.
+ */
+
+
+"SINE_BUTTON" = "sin";
+"COSINE_BUTTON" = "cos";
+"TANGENT_BUTTON" = "tan";
+
+"ARC_SINE_BUTTON" = "asin";
+"ARC_COSINE_BUTTON" = "acos";
+"ARC_TANGENT_BUTTON" = "atan";
+
+
+
+"SETTINGS" = "Settings";
+
+
+"PRECISION_TYPE" = "Precision Mode";
+
+"SIG_FIGS" = "Significant Figures";
+"NIST" = "Uncertainty Tracking";
+"NONE" = "None";
+
+"ANGLE_UNIT" = "Angle Unit";
+
+"RADIANS" = "Radians";
+"DEGREES" = "Degrees";
+"GRADIANS" = "Gradians";
+
+
+
+
+"OK" = "OK";

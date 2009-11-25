@@ -1,0 +1,1053 @@
+TGo Figure
+v7
+r0
+t278644177.299462
+cCheck dependencies
+cCpResource "build/App Store-iphoneos/Go Figure.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Info.plist" Resources/Info.plist
+cCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Default.png" Images/Default.png
+cCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Background6.png" Images/Background6.png
+cCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/i.png" Images/i.png
+cCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/buttun_up_graphite.png" Images/buttun_up_graphite.png
+cCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/buttun_up_white.png" Images/buttun_up_white.png
+cCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/buttun_up_long_graphite.png" Images/buttun_up_long_graphite.png
+cCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/buttun_up_long_orange.png" Images/buttun_up_long_orange.png
+cCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/yx.png" Images/yx.png
+cCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/button_down_graphite.png" Images/button_down_graphite.png
+cCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/icon.png" Images/icon.png
+cCopyPlistFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Entitlements.plist" Resources/Entitlements.plist
+cCopyStringsFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Errors.strings" Resources/Errors.strings
+cCopyStringsFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Localizable.strings" Resources/Localizable.strings
+cCompileXIB "/Users/justbuchanan/Projects/Go Figure/Resources/RPNCalculatorView.xib"
+cCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/xroot.png" Images/xroot.png
+cCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/sqrt.png" Images/sqrt.png
+cProcessPCH /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-aqnqsgwhhbpudqfomymzuvpwxbjy/Precision_RPN_Prefix.pch.gch "Other Sources/Precision_RPN_Prefix.pch" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/RPNCalculatorViewController.o" "/Users/justbuchanan/Projects/Go Figure/UI/RPNCalculatorViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/SettingsViewController.o" "/Users/justbuchanan/Projects/Go Figure/UI/SettingsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/StackViewController.o" "/Users/justbuchanan/Projects/Go Figure/UI/StackViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/SwitchCell.o" "/Users/justbuchanan/Projects/Go Figure/UI/SwitchCell.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/ValueCell.o" "/Users/justbuchanan/Projects/Go Figure/UI/ValueCell.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/Decimal.o" "/Users/justbuchanan/Projects/Go Figure/Math/Decimal.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/FloatToText.o" "/Users/justbuchanan/Projects/Go Figure/Math/FloatToText.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/JBAngleUnit.o" "/Users/justbuchanan/Projects/Go Figure/Math/JBAngleUnit.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/SMCertainNumber.o" "/Users/justbuchanan/Projects/Go Figure/Math/SMCertainNumber.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/SMNumber.o" "/Users/justbuchanan/Projects/Go Figure/Math/SMNumber.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/SMRPNCalculator.o" "/Users/justbuchanan/Projects/Go Figure/Math/SMRPNCalculator.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/SMSigFigNumber.o" "/Users/justbuchanan/Projects/Go Figure/Math/SMSigFigNumber.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/main.o" "/Users/justbuchanan/Projects/Go Figure/Other Sources/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/Precision_RPNAppDelegate.o" "/Users/justbuchanan/Projects/Go Figure/Other Sources/Precision_RPNAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/NSString+FloatParsing.o" "/Users/justbuchanan/Projects/Go Figure/Math/NSString+FloatParsing.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/ShakeView.o" "/Users/justbuchanan/Projects/Go Figure/ShakeView.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cLd "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Go Figure" normal armv6
+cGenerateDSYMFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app.dSYM" "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Go Figure"
+cProcessProductPackaging "/Users/justbuchanan/Library/MobileDevice/Provisioning Profiles/E6BCB56D-FCD5-41F6-AB70-3145B95A6CFB.mobileprovision" "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/embedded.mobileprovision"
+cTouch "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app"
+cProcessProductPackaging "/Users/justbuchanan/Projects/Go Figure/Resources/Entitlements.plist" "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure.xcent"
+cCodeSign "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk
+c000000004ABFDAFE0000000000000110
+t1254087422
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+c000000004ABDB88400000000000001E5
+t1253947524
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDBA1300000000005F4900
+t1253947923
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDBDCF0000000000501370
+t1253948879
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDBDA40000000000001355
+t1253948836
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h
+c000000004ABDBDA70000000000000D1D
+t1253948839
+s3357
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h
+c000000004ABDBDA8000000000000576E
+t1253948840
+s22382
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDD0D10000000000000788
+t1253953745
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDD2250000000001B3F450
+t1253954085
+s28570704
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/usr/include/math.h
+c000000004ABDAF4A00000000000004F1
+t1253945162
+s1265
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/usr/include/stdio.h
+c000000004ABDAF790000000000003D1D
+t1253945209
+s15645
+
+N/Users/justbuchanan/Library/MobileDevice/Provisioning Profiles/E6BCB56D-FCD5-41F6-AB70-3145B95A6CFB.mobileprovision
+c000000004AC3EA9B0000000000001BA5
+t1254353563
+s7077
+
+N/Users/justbuchanan/Projects/Go Figure/Images/Background6.png
+c000000004ABEE839000000000000F3AF
+t1254025273
+s62383
+
+N/Users/justbuchanan/Projects/Go Figure/Images/Default.png
+c000000004AC8B504000000000000C461
+t1254667524
+s50273
+
+N/Users/justbuchanan/Projects/Go Figure/Images/button_down_graphite.png
+c000000004ABEF08A0000000000000562
+t1254027402
+s1378
+
+N/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_graphite.png
+c000000004ABE62960000000000000575
+t1253991062
+s1397
+
+N/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_long_graphite.png
+c000000004ABE7B9B00000000000005CF
+t1253997467
+s1487
+
+N/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_long_orange.png
+c000000004ABE7ABA000000000000062E
+t1253997242
+s1582
+
+N/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_white.png
+c000000004ABE62660000000000000552
+t1253991014
+s1362
+
+N/Users/justbuchanan/Projects/Go Figure/Images/i.png
+c000000004ABD838B000000000000199F
+t1253933963
+s6559
+
+N/Users/justbuchanan/Projects/Go Figure/Images/icon.png
+c000000004AC2B7020000000000001C8A
+t1254274818
+s7306
+
+N/Users/justbuchanan/Projects/Go Figure/Images/sqrt.png
+c000000004AC8AF500000000000000289
+t1254666064
+s649
+
+N/Users/justbuchanan/Projects/Go Figure/Images/xroot.png
+c000000004AC8B21D0000000000000210
+t1254666781
+s528
+
+N/Users/justbuchanan/Projects/Go Figure/Images/yx.png
+c000000004ABE89C400000000000002FC
+t1254001092
+s764
+
+N/Users/justbuchanan/Projects/Go Figure/Math/Decimal.h
+c000000004AB6511F0000000000000248
+t1253462303
+s584
+
+N/Users/justbuchanan/Projects/Go Figure/Math/Decimal.m
+c000000004ABF82970000000000000A6F
+t1254064791
+s2671
+i"Decimal.h"
+i"Debug.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Math/FloatToText.h
+c000000004AB2A4D600000000000000F2
+t1253221590
+s242
+i<math.h>
+
+N/Users/justbuchanan/Projects/Go Figure/Math/FloatToText.m
+c000000004AB2F3F600000000000012AE
+t1253241846
+s4782
+i"FloatToText.h"
+i<Foundation/Foundation.h>
+i"Debug.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Math/JBAngleUnit.h
+c000000004AB6E06D0000000000000193
+t1253498989
+s403
+i<math.h>
+i<stdio.h>
+i"Decimal.h"
+i"Defines.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Math/JBAngleUnit.m
+c000000004AB6E0390000000000000335
+t1253498937
+s821
+i"JBAngleUnit.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Math/NSString+FloatParsing.h
+c000000004AB650E100000000000002C4
+t1253462241
+s708
+i<Foundation/Foundation.h>
+i"Decimal.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Math/NSString+FloatParsing.m
+c000000004AB650CE0000000000001196
+t1253462222
+s4502
+i"NSString+FloatParsing.h"
+i"Debug.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Math/Old/SMUncertainNumber.h
+c000000004A970501000000000000016B
+t1251411201
+s363
+i"SMNumber.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Math/SMCertainNumber.h
+c000000004AA5562100000000000000DF
+t1252349473
+s223
+i"SMNumber.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Math/SMCertainNumber.m
+c000000004AEB8132000000000000290A
+t1256948018
+s10506
+i"SMCertainNumber.h"
+i"Debug.h"
+i"Defines.h"
+i"SMNumber.h"
+i"NSString+FloatParsing.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Math/SMNumber.h
+c000000004AB81739000000000000092E
+t1253578553
+s2350
+i<Foundation/NSObject.h>
+i<Foundation/NSString.h>
+i"JBAngleUnit.h"
+i<math.h>
+i"Decimal.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Math/SMNumber.m
+c000000004AEB811100000000000008CB
+t1256947985
+s2251
+i"SMNumber.h"
+i"SMSigFigNumber.h"
+i"SMUncertainNumber.h"
+i"SMCertainNumber.h"
+i"Debug.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Math/SMRPNCalculator.h
+c000000004AE0F94A00000000000007BF
+t1256257866
+s1983
+i<Foundation/Foundation.h>
+i"SMNumber.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Math/SMRPNCalculator.m
+c000000004AE0FB6A0000000000002BC1
+t1256258410
+s11201
+i"SMRPNCalculator.h"
+i"Debug.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Math/SMSigFigNumber.h
+c000000004ABECC370000000000000242
+t1254018103
+s578
+i"SMNumber.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Math/SMSigFigNumber.m
+c000000004ABF7F4A00000000000040E0
+t1254063946
+s16608
+i"SMSigFigNumber.h"
+i"NSString+FloatParsing.h"
+i"Debug.h"
+i"Defines.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Other Sources/Debug.h
+c000000004AEB8C0000000000000001AD
+t1256950784
+s429
+
+N/Users/justbuchanan/Projects/Go Figure/Other Sources/Defines.h
+c000000004AEB8852000000000000014E
+t1256949842
+s334
+
+N/Users/justbuchanan/Projects/Go Figure/Other Sources/Precision_RPNAppDelegate.h
+c000000004AB0478D000000000000031D
+t1253066637
+s797
+i<UIKit/UIKit.h>
+i"RPNCalculatorViewController.h"
+i"SettingsViewController.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Other Sources/Precision_RPNAppDelegate.m
+c000000004AEB8AF50000000000001971
+t1256950517
+s6513
+i"Precision_RPNAppDelegate.h"
+i"Debug.h"
+i"SMCertainNumber.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Other Sources/Precision_RPN_Prefix.pch
+c000000004A8883BC00000000000000C3
+t1250460604
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/justbuchanan/Projects/Go Figure/Other Sources/main.m
+c000000004A9C7A8C000000000000018E
+t1251768972
+s398
+i<UIKit/UIKit.h>
+
+N/Users/justbuchanan/Projects/Go Figure/Resources/Entitlements.plist
+c000000004921E65800000000000000E1
+t1226958424
+s225
+
+N/Users/justbuchanan/Projects/Go Figure/Resources/Errors.strings
+c000000004ABAD3D8000000000000021E
+t1253757912
+s542
+
+N/Users/justbuchanan/Projects/Go Figure/Resources/Localizable.strings
+c000000004ABEF1A7000000000000024F
+t1254027687
+s591
+
+N/Users/justbuchanan/Projects/Go Figure/Resources/RPNCalculatorView.xib
+c000000004AEB51930000000000013AD5
+t1256935827
+s80597
+
+N/Users/justbuchanan/Projects/Go Figure/ShakeView.h
+c000000004AEB508C00000000000000D6
+t1256935564
+s214
+i<UIKit/UIKit.h>
+
+N/Users/justbuchanan/Projects/Go Figure/ShakeView.m
+c000000004AEB572E000000000000051D
+t1256937262
+s1309
+i"ShakeView.h"
+i"Debug.h"
+
+N/Users/justbuchanan/Projects/Go Figure/UI/RPNCalculatorViewController.h
+c000000004ABAD1BD0000000000000A68
+t1253757373
+s2664
+i<UIKit/UIKit.h>
+i"StackViewController.h"
+i"SMRPNCalculator.h"
+
+N/Users/justbuchanan/Projects/Go Figure/UI/RPNCalculatorViewController.m
+c000000004AEB81B2000000000000322C
+t1256948146
+s12844
+i"RPNCalculatorViewController.h"
+i"SMSigFigNumber.h"
+i"SMCertainNumber.h"
+i"SMUncertainNumber.h"
+i"Debug.h"
+i"Defines.h"
+
+N/Users/justbuchanan/Projects/Go Figure/UI/SettingsViewController.h
+c000000004ABE18280000000000000389
+t1253972008
+s905
+i<UIKit/UIKit.h>
+i"SMNumber.h"
+i"JBAngleUnit.h"
+i"SwitchCell.h"
+
+N/Users/justbuchanan/Projects/Go Figure/UI/SettingsViewController.m
+c000000004ABEF1D20000000000000E28
+t1254027730
+s3624
+i"SettingsViewController.h"
+
+N/Users/justbuchanan/Projects/Go Figure/UI/StackViewController.h
+c000000004AE0FB8A000000000000057C
+t1256258442
+s1404
+i<UIKit/UIKit.h>
+i"SMNumber.h"
+i"ValueCell.h"
+
+N/Users/justbuchanan/Projects/Go Figure/UI/StackViewController.m
+c000000004AEB89120000000000001AAD
+t1256950034
+s6829
+i"StackViewController.h"
+i"Debug.h"
+
+N/Users/justbuchanan/Projects/Go Figure/UI/SwitchCell.h
+c000000004ABEE3B20000000000000253
+t1254024114
+s595
+i<UIKit/UIKit.h>
+
+N/Users/justbuchanan/Projects/Go Figure/UI/SwitchCell.m
+c000000004ABEE3F50000000000000595
+t1254024181
+s1429
+i"SwitchCell.h"
+
+N/Users/justbuchanan/Projects/Go Figure/UI/ValueCell.h
+c000000004A9B32410000000000000189
+t1251684929
+s393
+i<UIKit/UIKit.h>
+i"SMNumber.h"
+
+N/Users/justbuchanan/Projects/Go Figure/UI/ValueCell.m
+c000000004ABACFD3000000000000036D
+t1253756883
+s877
+i"ValueCell.h"
+
+N/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app
+t1256951377
+s850
+
+N/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app.dSYM
+t1256951376
+s102
+
+N/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Background6.png
+t1256951374
+s69524
+
+N/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Default.png
+t1256951374
+s64409
+
+N/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Entitlements.plist
+t1256951374
+s62
+
+N/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Errors.strings
+t1256951374
+s160
+
+N/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Go Figure
+t1256951376
+s103892
+
+N/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Info.plist
+t1256951374
+s704
+
+N/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Localizable.strings
+t1256951374
+s458
+
+N/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/PkgInfo
+t1256951374
+s8
+
+N/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/RPNCalculatorView.nib
+t1256951375
+s14468
+
+N/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/ResourceRules.plist
+t1256951374
+s485
+
+N/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/button_down_graphite.png
+t1256951374
+s1353
+
+N/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/buttun_up_graphite.png
+t1256951374
+s1543
+
+N/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/buttun_up_long_graphite.png
+t1256951374
+s1679
+
+N/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/buttun_up_long_orange.png
+t1256951374
+s1767
+
+N/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/buttun_up_white.png
+t1256951374
+s1592
+
+N/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/embedded.mobileprovision
+t1256951376
+s7077
+
+N/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/i.png
+t1256951374
+s6636
+
+N/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/icon.png
+t1256951374
+s7491
+
+N/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/sqrt.png
+t1256951374
+s902
+
+N/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/xroot.png
+t1256951374
+s1047
+
+N/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/yx.png
+t1256951374
+s794
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure.xcent
+t1256951376
+s323
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/Decimal.o
+t1256951376
+s9276
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/FloatToText.o
+t1256951376
+s4492
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/Go Figure.LinkFileList
+c000000004AEB8E4E0000000000000862
+t1256951374
+s2146
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/JBAngleUnit.o
+t1256951376
+s5408
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/NSString+FloatParsing.o
+t1256951376
+s11732
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/Precision_RPNAppDelegate.o
+t1256951376
+s62112
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/RPNCalculatorViewController.o
+t1256951376
+s88008
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/SMCertainNumber.o
+t1256951376
+s31184
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/SMNumber.o
+t1256951376
+s16560
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/SMRPNCalculator.o
+t1256951376
+s41228
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/SMSigFigNumber.o
+t1256951376
+s42756
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/SettingsViewController.o
+t1256951375
+s44776
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/ShakeView.o
+t1256951376
+s13576
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/StackViewController.o
+t1256951376
+s53428
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/SwitchCell.o
+t1256951376
+s23528
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/ValueCell.o
+t1256951376
+s20032
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/main.o
+t1256951376
+s6652
+
+N/var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-aqnqsgwhhbpudqfomymzuvpwxbjy/Precision_RPN_Prefix.pch.gch
+t1256951375
+s7782576
+
+NResources/Info.plist
+c000000004AEB8E4A00000000000003A9
+t1256951370
+s937
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies278644174#278644174#0(0"0(0#1#0"4300885448#0"0#
+
+CCodeSign "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app"
+s278644176.891790
+e278644177.299430
+r1
+xCodeSign
+x/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app
+lSLF07#2@49"CodeSign "build/App Store-iphoneos/Go Figure.app"278644176#278644177#0(0"0(0#0#77"/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app4300885448#669"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv CODESIGN_ALLOCATE /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Distribution: justin Buchanan" "--resource-rules=/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/ResourceRules.plist" --entitlements "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure.xcent" "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app"0#
+
+CCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/Decimal.o" "/Users/justbuchanan/Projects/Go Figure/Math/Decimal.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+s278644176.200960
+e278644176.283781
+r1
+xCompileC
+xbuild/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/Decimal.o
+x/Users/justbuchanan/Projects/Go Figure/Math/Decimal.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@61"Compile /Users/justbuchanan/Projects/Go Figure/Math/Decimal.m278644176#278644176#0(0"0(0#0#53"/Users/justbuchanan/Projects/Go Figure/Math/Decimal.m4300885448#1862"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-aqnqsgwhhbpudqfomymzuvpwxbjy/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/Math/Decimal.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/Decimal.o"0#
+
+CCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/FloatToText.o" "/Users/justbuchanan/Projects/Go Figure/Math/FloatToText.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+s278644176.213566
+e278644176.251841
+r1
+xCompileC
+xbuild/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/FloatToText.o
+x/Users/justbuchanan/Projects/Go Figure/Math/FloatToText.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@65"Compile /Users/justbuchanan/Projects/Go Figure/Math/FloatToText.m278644176#278644176#0(0"0(0#0#57"/Users/justbuchanan/Projects/Go Figure/Math/FloatToText.m4300885448#1870"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-aqnqsgwhhbpudqfomymzuvpwxbjy/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/Math/FloatToText.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/FloatToText.o"0#
+
+CCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/JBAngleUnit.o" "/Users/justbuchanan/Projects/Go Figure/Math/JBAngleUnit.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+s278644176.251942
+e278644176.306989
+r1
+xCompileC
+xbuild/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/JBAngleUnit.o
+x/Users/justbuchanan/Projects/Go Figure/Math/JBAngleUnit.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@65"Compile /Users/justbuchanan/Projects/Go Figure/Math/JBAngleUnit.m278644176#278644176#0(0"0(0#0#57"/Users/justbuchanan/Projects/Go Figure/Math/JBAngleUnit.m4300885448#1870"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-aqnqsgwhhbpudqfomymzuvpwxbjy/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/Math/JBAngleUnit.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/JBAngleUnit.o"0#
+
+CCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/NSString+FloatParsing.o" "/Users/justbuchanan/Projects/Go Figure/Math/NSString+FloatParsing.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+s278644176.719786
+e278644176.802776
+r1
+xCompileC
+xbuild/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/NSString+FloatParsing.o
+x/Users/justbuchanan/Projects/Go Figure/Math/NSString+FloatParsing.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@75"Compile /Users/justbuchanan/Projects/Go Figure/Math/NSString+FloatParsing.m278644176#278644176#0(0"0(0#0#67"/Users/justbuchanan/Projects/Go Figure/Math/NSString+FloatParsing.m4300885448#1890"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-aqnqsgwhhbpudqfomymzuvpwxbjy/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/Math/NSString+FloatParsing.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/NSString+FloatParsing.o"0#
+
+CCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/Precision_RPNAppDelegate.o" "/Users/justbuchanan/Projects/Go Figure/Other Sources/Precision_RPNAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+s278644176.609946
+e278644176.777329
+r1
+xCompileC
+xbuild/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/Precision_RPNAppDelegate.o
+x/Users/justbuchanan/Projects/Go Figure/Other Sources/Precision_RPNAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@87"Compile /Users/justbuchanan/Projects/Go Figure/Other Sources/Precision_RPNAppDelegate.m278644176#278644176#0(0"0(0#0#79"/Users/justbuchanan/Projects/Go Figure/Other Sources/Precision_RPNAppDelegate.m4300885448#1905"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-aqnqsgwhhbpudqfomymzuvpwxbjy/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/Other Sources/Precision_RPNAppDelegate.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/Precision_RPNAppDelegate.o"0#
+
+CCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/RPNCalculatorViewController.o" "/Users/justbuchanan/Projects/Go Figure/UI/RPNCalculatorViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+s278644175.892744
+e278644176.137200
+r1
+xCompileC
+xbuild/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/RPNCalculatorViewController.o
+x/Users/justbuchanan/Projects/Go Figure/UI/RPNCalculatorViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@79"Compile /Users/justbuchanan/Projects/Go Figure/UI/RPNCalculatorViewController.m278644175#278644176#0(0"0(0#0#71"/Users/justbuchanan/Projects/Go Figure/UI/RPNCalculatorViewController.m4300885448#1900"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-aqnqsgwhhbpudqfomymzuvpwxbjy/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/UI/RPNCalculatorViewController.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/RPNCalculatorViewController.o"0#
+
+CCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/SMCertainNumber.o" "/Users/justbuchanan/Projects/Go Figure/Math/SMCertainNumber.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+s278644176.283879
+e278644176.465785
+r1
+xCompileC
+xbuild/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/SMCertainNumber.o
+x/Users/justbuchanan/Projects/Go Figure/Math/SMCertainNumber.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@69"Compile /Users/justbuchanan/Projects/Go Figure/Math/SMCertainNumber.m278644176#278644176#0(0"0(0#0#61"/Users/justbuchanan/Projects/Go Figure/Math/SMCertainNumber.m4300885448#1878"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-aqnqsgwhhbpudqfomymzuvpwxbjy/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/Math/SMCertainNumber.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/SMCertainNumber.o"0#
+
+CCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/SMNumber.o" "/Users/justbuchanan/Projects/Go Figure/Math/SMNumber.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+s278644176.307086
+e278644176.366740
+r1
+xCompileC
+xbuild/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/SMNumber.o
+x/Users/justbuchanan/Projects/Go Figure/Math/SMNumber.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@62"Compile /Users/justbuchanan/Projects/Go Figure/Math/SMNumber.m278644176#278644176#0(0"0(0#0#54"/Users/justbuchanan/Projects/Go Figure/Math/SMNumber.m4300885448#1864"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-aqnqsgwhhbpudqfomymzuvpwxbjy/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/Math/SMNumber.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/SMNumber.o"0#
+
+CCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/SMRPNCalculator.o" "/Users/justbuchanan/Projects/Go Figure/Math/SMRPNCalculator.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+s278644176.366837
+e278644176.562091
+r1
+xCompileC
+xbuild/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/SMRPNCalculator.o
+x/Users/justbuchanan/Projects/Go Figure/Math/SMRPNCalculator.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@69"Compile /Users/justbuchanan/Projects/Go Figure/Math/SMRPNCalculator.m278644176#278644176#0(0"0(0#0#61"/Users/justbuchanan/Projects/Go Figure/Math/SMRPNCalculator.m4300885448#1878"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-aqnqsgwhhbpudqfomymzuvpwxbjy/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/Math/SMRPNCalculator.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/SMRPNCalculator.o"0#
+
+CCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/SMSigFigNumber.o" "/Users/justbuchanan/Projects/Go Figure/Math/SMSigFigNumber.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+s278644176.465872
+e278644176.719702
+r1
+xCompileC
+xbuild/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/SMSigFigNumber.o
+x/Users/justbuchanan/Projects/Go Figure/Math/SMSigFigNumber.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@68"Compile /Users/justbuchanan/Projects/Go Figure/Math/SMSigFigNumber.m278644176#278644176#0(0"0(0#0#60"/Users/justbuchanan/Projects/Go Figure/Math/SMSigFigNumber.m4300885448#1876"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-aqnqsgwhhbpudqfomymzuvpwxbjy/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/Math/SMSigFigNumber.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/SMSigFigNumber.o"0#
+
+CCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/SettingsViewController.o" "/Users/justbuchanan/Projects/Go Figure/UI/SettingsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+s278644175.893788
+e278644175.991275
+r1
+xCompileC
+xbuild/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/SettingsViewController.o
+x/Users/justbuchanan/Projects/Go Figure/UI/SettingsViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@74"Compile /Users/justbuchanan/Projects/Go Figure/UI/SettingsViewController.m278644175#278644175#0(0"0(0#0#66"/Users/justbuchanan/Projects/Go Figure/UI/SettingsViewController.m4300885448#1890"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-aqnqsgwhhbpudqfomymzuvpwxbjy/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/UI/SettingsViewController.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/SettingsViewController.o"0#
+
+CCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/ShakeView.o" "/Users/justbuchanan/Projects/Go Figure/ShakeView.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+s278644176.777433
+e278644176.827495
+r1
+xCompileC
+xbuild/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/ShakeView.o
+x/Users/justbuchanan/Projects/Go Figure/ShakeView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@58"Compile /Users/justbuchanan/Projects/Go Figure/ShakeView.m278644176#278644176#0(0"0(0#0#50"/Users/justbuchanan/Projects/Go Figure/ShakeView.m4300885448#1861"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-aqnqsgwhhbpudqfomymzuvpwxbjy/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/ShakeView.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/ShakeView.o"0#
+
+CCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/StackViewController.o" "/Users/justbuchanan/Projects/Go Figure/UI/StackViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+s278644175.991427
+e278644176.137358
+r1
+xCompileC
+xbuild/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/StackViewController.o
+x/Users/justbuchanan/Projects/Go Figure/UI/StackViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@71"Compile /Users/justbuchanan/Projects/Go Figure/UI/StackViewController.m278644175#278644176#0(0"0(0#0#63"/Users/justbuchanan/Projects/Go Figure/UI/StackViewController.m4300885448#1884"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-aqnqsgwhhbpudqfomymzuvpwxbjy/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/UI/StackViewController.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/StackViewController.o"0#
+
+CCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/SwitchCell.o" "/Users/justbuchanan/Projects/Go Figure/UI/SwitchCell.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+s278644176.137463
+e278644176.213468
+r1
+xCompileC
+xbuild/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/SwitchCell.o
+x/Users/justbuchanan/Projects/Go Figure/UI/SwitchCell.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@62"Compile /Users/justbuchanan/Projects/Go Figure/UI/SwitchCell.m278644176#278644176#0(0"0(0#0#54"/Users/justbuchanan/Projects/Go Figure/UI/SwitchCell.m4300885448#1866"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-aqnqsgwhhbpudqfomymzuvpwxbjy/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/UI/SwitchCell.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/SwitchCell.o"0#
+
+CCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/ValueCell.o" "/Users/justbuchanan/Projects/Go Figure/UI/ValueCell.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+s278644176.138301
+e278644176.200867
+r1
+xCompileC
+xbuild/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/ValueCell.o
+x/Users/justbuchanan/Projects/Go Figure/UI/ValueCell.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@61"Compile /Users/justbuchanan/Projects/Go Figure/UI/ValueCell.m278644176#278644176#0(0"0(0#0#53"/Users/justbuchanan/Projects/Go Figure/UI/ValueCell.m4300885448#1864"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-aqnqsgwhhbpudqfomymzuvpwxbjy/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/UI/ValueCell.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/ValueCell.o"0#
+
+CCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/main.o" "/Users/justbuchanan/Projects/Go Figure/Other Sources/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+s278644176.562185
+e278644176.609855
+r1
+xCompileC
+xbuild/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/main.o
+x/Users/justbuchanan/Projects/Go Figure/Other Sources/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@67"Compile /Users/justbuchanan/Projects/Go Figure/Other Sources/main.m278644176#278644176#0(0"0(0#0#59"/Users/justbuchanan/Projects/Go Figure/Other Sources/main.m4300885448#1865"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-aqnqsgwhhbpudqfomymzuvpwxbjy/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/Other Sources/main.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/main.o"0#
+
+CCompileXIB "/Users/justbuchanan/Projects/Go Figure/Resources/RPNCalculatorView.xib"
+s278644174.841060
+e278644175.497493
+r1
+xCompileXIB
+x/Users/justbuchanan/Projects/Go Figure/Resources/RPNCalculatorView.xib
+lSLF07#2@42"CompileXIB Resources/RPNCalculatorView.xib278644174#278644175#0(0"0(0#0#70"/Users/justbuchanan/Projects/Go Figure/Resources/RPNCalculatorView.xib4300885448#504"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/RPNCalculatorView.nib" "/Users/justbuchanan/Projects/Go Figure/Resources/RPNCalculatorView.xib"0#
+
+CCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Background6.png" Images/Background6.png
+s278644174.468042
+e278644174.788147
+r1
+xCopyPNGFile
+x/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Background6.png
+xImages/Background6.png
+lSLF07#2@91"CopyPNGFile "build/App Store-iphoneos/Go Figure.app/Background6.png" Images/Background6.png278644174#278644174#0(0"0(0#0#61"/Users/justbuchanan/Projects/Go Figure/Images/Background6.png4300885448#589"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/Background6.png" "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Background6.png"0#
+
+CCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Default.png" Images/Default.png
+s278644174.467508
+e278644174.616308
+r1
+xCopyPNGFile
+x/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Default.png
+xImages/Default.png
+lSLF07#2@83"CopyPNGFile "build/App Store-iphoneos/Go Figure.app/Default.png" Images/Default.png278644174#278644174#0(0"0(0#0#57"/Users/justbuchanan/Projects/Go Figure/Images/Default.png4300885448#581"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/Default.png" "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Default.png"0#
+
+CCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/button_down_graphite.png" Images/button_down_graphite.png
+s278644174.771199
+e278644174.796246
+r1
+xCopyPNGFile
+x/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/button_down_graphite.png
+xImages/button_down_graphite.png
+lSLF07#2@109"CopyPNGFile "build/App Store-iphoneos/Go Figure.app/button_down_graphite.png" Images/button_down_graphite.png278644174#278644174#0(0"0(0#0#70"/Users/justbuchanan/Projects/Go Figure/Images/button_down_graphite.png4300885448#607"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/button_down_graphite.png" "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/button_down_graphite.png"0#
+
+CCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/buttun_up_graphite.png" Images/buttun_up_graphite.png
+s278644174.639356
+e278644174.663515
+r1
+xCopyPNGFile
+x/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/buttun_up_graphite.png
+xImages/buttun_up_graphite.png
+lSLF07#2@105"CopyPNGFile "build/App Store-iphoneos/Go Figure.app/buttun_up_graphite.png" Images/buttun_up_graphite.png278644174#278644174#0(0"0(0#0#68"/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_graphite.png4300885448#603"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_graphite.png" "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/buttun_up_graphite.png"0#
+
+CCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/buttun_up_long_graphite.png" Images/buttun_up_long_graphite.png
+s278644174.687592
+e278644174.722096
+r1
+xCopyPNGFile
+x/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/buttun_up_long_graphite.png
+xImages/buttun_up_long_graphite.png
+lSLF07#2@115"CopyPNGFile "build/App Store-iphoneos/Go Figure.app/buttun_up_long_graphite.png" Images/buttun_up_long_graphite.png278644174#278644174#0(0"0(0#0#73"/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_long_graphite.png4300885448#613"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_long_graphite.png" "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/buttun_up_long_graphite.png"0#
+
+CCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/buttun_up_long_orange.png" Images/buttun_up_long_orange.png
+s278644174.722188
+e278644174.750954
+r1
+xCopyPNGFile
+x/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/buttun_up_long_orange.png
+xImages/buttun_up_long_orange.png
+lSLF07#2@111"CopyPNGFile "build/App Store-iphoneos/Go Figure.app/buttun_up_long_orange.png" Images/buttun_up_long_orange.png278644174#278644174#0(0"0(0#0#71"/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_long_orange.png4300885448#609"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_long_orange.png" "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/buttun_up_long_orange.png"0#
+
+CCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/buttun_up_white.png" Images/buttun_up_white.png
+s278644174.663596
+e278644174.687511
+r1
+xCopyPNGFile
+x/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/buttun_up_white.png
+xImages/buttun_up_white.png
+lSLF07#2@99"CopyPNGFile "build/App Store-iphoneos/Go Figure.app/buttun_up_white.png" Images/buttun_up_white.png278644174#278644174#0(0"0(0#0#65"/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_white.png4300885448#597"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_white.png" "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/buttun_up_white.png"0#
+
+CCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/i.png" Images/i.png
+s278644174.616387
+e278644174.639269
+r1
+xCopyPNGFile
+x/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/i.png
+xImages/i.png
+lSLF07#2@71"CopyPNGFile "build/App Store-iphoneos/Go Figure.app/i.png" Images/i.png278644174#278644174#0(0"0(0#0#51"/Users/justbuchanan/Projects/Go Figure/Images/i.png4300885448#569"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/i.png" "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/i.png"0#
+
+CCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/icon.png" Images/icon.png
+s278644174.788232
+e278644174.813647
+r1
+xCopyPNGFile
+x/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/icon.png
+xImages/icon.png
+lSLF07#2@77"CopyPNGFile "build/App Store-iphoneos/Go Figure.app/icon.png" Images/icon.png278644174#278644174#0(0"0(0#0#54"/Users/justbuchanan/Projects/Go Figure/Images/icon.png4300885448#575"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/icon.png" "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/icon.png"0#
+
+CCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/sqrt.png" Images/sqrt.png
+s278644174.862811
+e278644174.883258
+r1
+xCopyPNGFile
+x/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/sqrt.png
+xImages/sqrt.png
+lSLF07#2@77"CopyPNGFile "build/App Store-iphoneos/Go Figure.app/sqrt.png" Images/sqrt.png278644174#278644174#0(0"0(0#0#54"/Users/justbuchanan/Projects/Go Figure/Images/sqrt.png4300885448#575"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/sqrt.png" "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/sqrt.png"0#
+
+CCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/xroot.png" Images/xroot.png
+s278644174.841773
+e278644174.862732
+r1
+xCopyPNGFile
+x/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/xroot.png
+xImages/xroot.png
+lSLF07#2@79"CopyPNGFile "build/App Store-iphoneos/Go Figure.app/xroot.png" Images/xroot.png278644174#278644174#0(0"0(0#0#55"/Users/justbuchanan/Projects/Go Figure/Images/xroot.png4300885448#577"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/xroot.png" "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/xroot.png"0#
+
+CCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/yx.png" Images/yx.png
+s278644174.751035
+e278644174.771118
+r1
+xCopyPNGFile
+x/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/yx.png
+xImages/yx.png
+lSLF07#2@73"CopyPNGFile "build/App Store-iphoneos/Go Figure.app/yx.png" Images/yx.png278644174#278644174#0(0"0(0#0#52"/Users/justbuchanan/Projects/Go Figure/Images/yx.png4300885448#571"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/yx.png" "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/yx.png"0#
+
+CCopyPlistFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Entitlements.plist" Resources/Entitlements.plist
+s278644174.796330
+e278644174.816091
+r1
+xCopyPlistFile
+x/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Entitlements.plist
+xResources/Entitlements.plist
+lSLF07#2@33"Copy Resources/Entitlements.plist278644174#278644174#0(0"0(0#0#67"/Users/justbuchanan/Projects/Go Figure/Resources/Entitlements.plist4300885448#399"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Resources/Entitlements.plist --outdir "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app"0#
+
+CCopyStringsFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Errors.strings" Resources/Errors.strings
+s278644174.813726
+e278644174.840944
+r1
+xCopyStringsFile
+x/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Errors.strings
+xResources/Errors.strings
+oResources/Errors.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@29"Copy Resources/Errors.strings278644174#278644174#0(126"Resources/Errors.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#63"/Users/justbuchanan/Projects/Go Figure/Resources/Errors.strings4300885448#468"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary Resources/Errors.strings --outdir "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app"0#
+
+CCopyStringsFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Localizable.strings" Resources/Localizable.strings
+s278644174.816182
+e278644174.841717
+r1
+xCopyStringsFile
+x/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Localizable.strings
+xResources/Localizable.strings
+lSLF07#2@34"Copy Resources/Localizable.strings278644174#278644174#0(0"0(0#0#68"/Users/justbuchanan/Projects/Go Figure/Resources/Localizable.strings4300885448#473"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary Resources/Localizable.strings --outdir "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app"0#
+
+CCpResource "build/App Store-iphoneos/Go Figure.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+s278644174.461778
+e278644174.467450
+r1
+xCpResource
+xbuild/App Store-iphoneos/Go Figure.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+lSLF07#2@96"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist278644174#278644174#0(0"0(0#0#91"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist4300885448#513"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app"0#
+
+CGenerateDSYMFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app.dSYM" "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Go Figure"
+s278644176.862406
+e278644176.885380
+r1
+xGenerateDSYMFile
+x/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app.dSYM
+x/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Go Figure
+lSLF07#2@113"GenerateDSYMFile "build/App Store-iphoneos/Go Figure.app.dSYM" "build/App Store-iphoneos/Go Figure.app/Go Figure"278644176#278644176#0(0"0(0#0#87"/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Go Figure4300885448#382"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Go Figure" -o "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app.dSYM"0#
+
+CLd "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Go Figure" normal armv6
+s278644176.827584
+e278644176.862318
+r1
+xLd
+x/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Go Figure
+xnormal
+xarmv6
+lSLF07#2@92"Link /Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Go Figure278644176#278644176#0(0"0(0#0#0"4300885448#931"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.2    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk "-L/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos" "-F/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos" -filelist "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/Go Figure.LinkFileList" -mmacosx-version-min=10.5 -dead_strip -miphoneos-version-min=3.1.2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Go Figure"0#
+
+CProcessInfoPlistFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Info.plist" Resources/Info.plist
+s278644174.462419
+e278644174.465335
+r1
+xProcessInfoPlistFile
+x/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Info.plist
+xResources/Info.plist
+lSLF07#2@28"Process Resources/Info.plist278644174#278644174#0(0"0(0#0#59"/Users/justbuchanan/Projects/Go Figure/Resources/Info.plist4300885448#590"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Resources/Info.plist -genpkginfo "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/ResourceRules.plist" -o "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Info.plist"0#
+
+CProcessPCH /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-aqnqsgwhhbpudqfomymzuvpwxbjy/Precision_RPN_Prefix.pch.gch "Other Sources/Precision_RPN_Prefix.pch" normal armv6 objective-c com.apple.compilers.gcc.4_0
+s278644175.497605
+e278644175.892616
+r1
+xProcessPCH
+x/var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-aqnqsgwhhbpudqfomymzuvpwxbjy/Precision_RPN_Prefix.pch.gch
+xOther Sources/Precision_RPN_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@49"Precompile Other Sources/Precision_RPN_Prefix.pch278644175#278644175#0(0"0(0#0#77"/Users/justbuchanan/Projects/Go Figure/Other Sources/Precision_RPN_Prefix.pch4300885448#1759"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/DerivedSources" -c "/Users/justbuchanan/Projects/Go Figure/Other Sources/Precision_RPN_Prefix.pch" -o /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-aqnqsgwhhbpudqfomymzuvpwxbjy/Precision_RPN_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/justbuchanan/Library/MobileDevice/Provisioning Profiles/E6BCB56D-FCD5-41F6-AB70-3145B95A6CFB.mobileprovision" "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/embedded.mobileprovision"
+s278644176.885465
+e278644176.887353
+r1
+xProcessProductPackaging
+x/Users/justbuchanan/Library/MobileDevice/Provisioning Profiles/E6BCB56D-FCD5-41F6-AB70-3145B95A6CFB.mobileprovision
+x/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/embedded.mobileprovision
+lSLF07#2@207"ProcessProductPackaging "/Users/justbuchanan/Library/MobileDevice/Provisioning Profiles/E6BCB56D-FCD5-41F6-AB70-3145B95A6CFB.mobileprovision" "build/App Store-iphoneos/Go Figure.app/embedded.mobileprovision"278644176#278644176#0(0"0(0#0#102"/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/embedded.mobileprovision4300885448#440"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/justbuchanan/Library/MobileDevice/Provisioning Profiles/E6BCB56D-FCD5-41F6-AB70-3145B95A6CFB.mobileprovision" -o "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging "/Users/justbuchanan/Projects/Go Figure/Resources/Entitlements.plist" "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure.xcent"
+s278644176.890462
+e278644176.891743
+r1
+xProcessProductPackaging
+x/Users/justbuchanan/Projects/Go Figure/Resources/Entitlements.plist
+x/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure.xcent
+lSLF07#2@127"ProcessProductPackaging Resources/Entitlements.plist "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure.xcent"278644176#278644176#0(0"0(0#0#111"/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure.xcent4300885448#427"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/justbuchanan/Projects/Go Figure/Resources/Entitlements.plist" -entitlements -format xml -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure.xcent"0#
+
+CTouch "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app"
+s278644176.887402
+e278644176.890384
+r1
+xTouch
+x/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app
+lSLF07#2@83"Touch /Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app278644176#278644176#0(0"0(0#0#0"4300885448#274"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app"0#
+

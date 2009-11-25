@@ -1,0 +1,1222 @@
+TGo Figure
+v7
+r1
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004AE22A8700000000000000EE
+t1256336007
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h
+c000000004ABDC9410000000000000D1D
+t1253951809
+s3357
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h
+c000000004ABDC942000000000000576E
+t1253951810
+s22382
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/math.h
+c000000004748A10600000000000004B7
+t1195942150
+s1207
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/stdio.h
+c000000004748A1330000000000003D1D
+t1195942195
+s15645
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Images/Background6.png
+c000000004ABEE839000000000000F3AF
+t1254025273
+s62383
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Images/Default.png
+c000000004AC8B504000000000000C461
+t1254667524
+s50273
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Images/button_down_graphite.png
+c000000004ABEF08A0000000000000562
+t1254027402
+s1378
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Images/buttun_up_graphite.png
+c000000004ABE62960000000000000575
+t1253991062
+s1397
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Images/buttun_up_long_graphite.png
+c000000004ABE7B9B00000000000005CF
+t1253997467
+s1487
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Images/buttun_up_long_orange.png
+c000000004ABE7ABA000000000000062E
+t1253997242
+s1582
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Images/buttun_up_white.png
+c000000004ABE62660000000000000552
+t1253991014
+s1362
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Images/i.png
+c000000004ABD838B000000000000199F
+t1253933963
+s6559
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Images/icon.png
+c000000004AC2B7020000000000001C8A
+t1254274818
+s7306
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Images/sqrt.png
+c000000004AC8AF500000000000000289
+t1254666064
+s649
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Images/xroot.png
+c000000004AC8B21D0000000000000210
+t1254666781
+s528
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Images/yx.png
+c000000004ABE89C400000000000002FC
+t1254001092
+s764
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Math/Decimal.h
+c000000004AB6511F0000000000000248
+t1253462303
+s584
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Math/Decimal.m
+c000000004ABF82970000000000000A6F
+t1254064791
+s2671
+i"Decimal.h"
+i"Debug.h"
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Math/FloatToText.h
+c000000004AB2A4D600000000000000F2
+t1253221590
+s242
+i<math.h>
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Math/FloatToText.m
+c000000004AB2F3F600000000000012AE
+t1253241846
+s4782
+i"FloatToText.h"
+i<Foundation/Foundation.h>
+i"Debug.h"
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Math/JBAngleUnit.h
+c000000004AB6E06D0000000000000193
+t1253498989
+s403
+i<math.h>
+i<stdio.h>
+i"Decimal.h"
+i"Defines.h"
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Math/JBAngleUnit.m
+c000000004AB6E0390000000000000335
+t1253498937
+s821
+i"JBAngleUnit.h"
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Math/NSString+FloatParsing.h
+c000000004AB650E100000000000002C4
+t1253462241
+s708
+i<Foundation/Foundation.h>
+i"Decimal.h"
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Math/NSString+FloatParsing.m
+c000000004AB650CE0000000000001196
+t1253462222
+s4502
+i"NSString+FloatParsing.h"
+i"Debug.h"
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Math/Old/SMUncertainNumber.h
+c000000004A970501000000000000016B
+t1251411201
+s363
+i"SMNumber.h"
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Math/SMCertainNumber.h
+c000000004AA5562100000000000000DF
+t1252349473
+s223
+i"SMNumber.h"
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Math/SMCertainNumber.m
+c000000004AEB8132000000000000290A
+t1256948018
+s10506
+i"SMCertainNumber.h"
+i"Debug.h"
+i"Defines.h"
+i"SMNumber.h"
+i"NSString+FloatParsing.h"
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Math/SMNumber.h
+c000000004AB81739000000000000092E
+t1253578553
+s2350
+i<Foundation/NSObject.h>
+i<Foundation/NSString.h>
+i"JBAngleUnit.h"
+i<math.h>
+i"Decimal.h"
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Math/SMNumber.m
+c000000004AEB811100000000000008CB
+t1256947985
+s2251
+i"SMNumber.h"
+i"SMSigFigNumber.h"
+i"SMUncertainNumber.h"
+i"SMCertainNumber.h"
+i"Debug.h"
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Math/SMRPNCalculator.h
+c000000004AE0F94A00000000000007BF
+t1256257866
+s1983
+i<Foundation/Foundation.h>
+i"SMNumber.h"
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Math/SMRPNCalculator.m
+c000000004AE0FB6A0000000000002BC1
+t1256258410
+s11201
+i"SMRPNCalculator.h"
+i"Debug.h"
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Math/SMSigFigNumber.h
+c000000004ABECC370000000000000242
+t1254018103
+s578
+i"SMNumber.h"
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Math/SMSigFigNumber.m
+c000000004ABF7F4A00000000000040E0
+t1254063946
+s16608
+i"SMSigFigNumber.h"
+i"NSString+FloatParsing.h"
+i"Debug.h"
+i"Defines.h"
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Other Sources/Debug.h
+c000000004AEACD9C00000000000001AB
+t1256902044
+s427
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Other Sources/Defines.h
+c000000004AEB8852000000000000014E
+t1256949842
+s334
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Other Sources/Precision_RPNAppDelegate.h
+c000000004AB0478D000000000000031D
+t1253066637
+s797
+i<UIKit/UIKit.h>
+i"RPNCalculatorViewController.h"
+i"SettingsViewController.h"
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Other Sources/Precision_RPNAppDelegate.m
+c000000004AEB8AF50000000000001971
+t1256950517
+s6513
+i"Precision_RPNAppDelegate.h"
+i"Debug.h"
+i"SMCertainNumber.h"
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Other Sources/Precision_RPN_Prefix.pch
+c000000004A8883BC00000000000000C3
+t1250460604
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Other Sources/main.m
+c000000004A9C7A8C000000000000018E
+t1251768972
+s398
+i<UIKit/UIKit.h>
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Resources/Entitlements.plist
+c000000004921E65800000000000000E1
+t1226958424
+s225
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Resources/Errors.strings
+c000000004ABAD3D8000000000000021E
+t1253757912
+s542
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Resources/Localizable.strings
+c000000004ABEF1A7000000000000024F
+t1254027687
+s591
+
+N/Users/justbuchanan/Desktop/Go Figure 2/Resources/RPNCalculatorView.xib
+c000000004AEB51930000000000013AD5
+t1256935827
+s80597
+
+N/Users/justbuchanan/Desktop/Go Figure 2/ShakeView.h
+c000000004AEB508C00000000000000D6
+t1256935564
+s214
+i<UIKit/UIKit.h>
+
+N/Users/justbuchanan/Desktop/Go Figure 2/ShakeView.m
+c000000004AEB572E000000000000051D
+t1256937262
+s1309
+i"ShakeView.h"
+i"Debug.h"
+
+N/Users/justbuchanan/Desktop/Go Figure 2/UI/RPNCalculatorViewController.h
+c000000004ABAD1BD0000000000000A68
+t1253757373
+s2664
+i<UIKit/UIKit.h>
+i"StackViewController.h"
+i"SMRPNCalculator.h"
+
+N/Users/justbuchanan/Desktop/Go Figure 2/UI/RPNCalculatorViewController.m
+c000000004AEB81B2000000000000322C
+t1256948146
+s12844
+i"RPNCalculatorViewController.h"
+i"SMSigFigNumber.h"
+i"SMCertainNumber.h"
+i"SMUncertainNumber.h"
+i"Debug.h"
+i"Defines.h"
+
+N/Users/justbuchanan/Desktop/Go Figure 2/UI/SettingsViewController.h
+c000000004ABE18280000000000000389
+t1253972008
+s905
+i<UIKit/UIKit.h>
+i"SMNumber.h"
+i"JBAngleUnit.h"
+i"SwitchCell.h"
+
+N/Users/justbuchanan/Desktop/Go Figure 2/UI/SettingsViewController.m
+c000000004ABEF1D20000000000000E28
+t1254027730
+s3624
+i"SettingsViewController.h"
+
+N/Users/justbuchanan/Desktop/Go Figure 2/UI/StackViewController.h
+c000000004AE0FB8A000000000000057C
+t1256258442
+s1404
+i<UIKit/UIKit.h>
+i"SMNumber.h"
+i"ValueCell.h"
+
+N/Users/justbuchanan/Desktop/Go Figure 2/UI/StackViewController.m
+c000000004AEB89120000000000001AAD
+t1256950034
+s6829
+i"StackViewController.h"
+i"Debug.h"
+
+N/Users/justbuchanan/Desktop/Go Figure 2/UI/SwitchCell.h
+c000000004ABEE3B20000000000000253
+t1254024114
+s595
+i<UIKit/UIKit.h>
+
+N/Users/justbuchanan/Desktop/Go Figure 2/UI/SwitchCell.m
+c000000004ABEE3F50000000000000595
+t1254024181
+s1429
+i"SwitchCell.h"
+
+N/Users/justbuchanan/Desktop/Go Figure 2/UI/ValueCell.h
+c000000004A9B32410000000000000189
+t1251684929
+s393
+i<UIKit/UIKit.h>
+i"SMNumber.h"
+
+N/Users/justbuchanan/Desktop/Go Figure 2/UI/ValueCell.m
+c000000004ABACFD3000000000000036D
+t1253756883
+s877
+i"ValueCell.h"
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphonesimulator/Go Figure.app
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphonesimulator/Go Figure.app.dSYM
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphonesimulator/Go Figure.app/Background6.png
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphonesimulator/Go Figure.app/Default.png
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphonesimulator/Go Figure.app/Entitlements.plist
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphonesimulator/Go Figure.app/Errors.strings
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphonesimulator/Go Figure.app/Go Figure
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphonesimulator/Go Figure.app/Info.plist
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphonesimulator/Go Figure.app/Localizable.strings
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphonesimulator/Go Figure.app/PkgInfo
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphonesimulator/Go Figure.app/RPNCalculatorView.nib
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphonesimulator/Go Figure.app/button_down_graphite.png
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphonesimulator/Go Figure.app/buttun_up_graphite.png
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphonesimulator/Go Figure.app/buttun_up_long_graphite.png
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphonesimulator/Go Figure.app/buttun_up_long_orange.png
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphonesimulator/Go Figure.app/buttun_up_white.png
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphonesimulator/Go Figure.app/i.png
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphonesimulator/Go Figure.app/icon.png
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphonesimulator/Go Figure.app/sqrt.png
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphonesimulator/Go Figure.app/xroot.png
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphonesimulator/Go Figure.app/yx.png
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/Decimal.o
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/FloatToText.o
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/Go Figure.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/JBAngleUnit.o
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/NSString+FloatParsing.o
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/Precision_RPNAppDelegate.o
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/RPNCalculatorViewController.o
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/SMCertainNumber.o
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/SMNumber.o
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/SMRPNCalculator.o
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/SMSigFigNumber.o
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/SettingsViewController.o
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/ShakeView.o
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/StackViewController.o
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/SwitchCell.o
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/ValueCell.o
+t2
+s0
+
+N/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/Images/Background6.png
+c000000004ABEE839000000000000F3AF
+t1254025273
+s62383
+
+N/Users/justbuchanan/Projects/Go Figure/Images/Default.png
+c000000004AC8B504000000000000C461
+t1254667524
+s50273
+
+N/Users/justbuchanan/Projects/Go Figure/Images/button_down_graphite.png
+c000000004ABEF08A0000000000000562
+t1254027402
+s1378
+
+N/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_graphite.png
+c000000004ABE62960000000000000575
+t1253991062
+s1397
+
+N/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_long_graphite.png
+c000000004ABE7B9B00000000000005CF
+t1253997467
+s1487
+
+N/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_long_orange.png
+c000000004ABE7ABA000000000000062E
+t1253997242
+s1582
+
+N/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_white.png
+c000000004ABE62660000000000000552
+t1253991014
+s1362
+
+N/Users/justbuchanan/Projects/Go Figure/Images/i.png
+c000000004ABD838B000000000000199F
+t1253933963
+s6559
+
+N/Users/justbuchanan/Projects/Go Figure/Images/icon.png
+c000000004AC2B7020000000000001C8A
+t1254274818
+s7306
+
+N/Users/justbuchanan/Projects/Go Figure/Images/sqrt.png
+c000000004AC8AF500000000000000289
+t1254666064
+s649
+
+N/Users/justbuchanan/Projects/Go Figure/Images/xroot.png
+c000000004AC8B21D0000000000000210
+t1254666781
+s528
+
+N/Users/justbuchanan/Projects/Go Figure/Images/yx.png
+c000000004ABE89C400000000000002FC
+t1254001092
+s764
+
+N/Users/justbuchanan/Projects/Go Figure/Math/Decimal.h
+c000000004AB6511F0000000000000248
+t1253462303
+s584
+
+N/Users/justbuchanan/Projects/Go Figure/Math/Decimal.m
+c000000004ABF82970000000000000A6F
+t1254064791
+s2671
+i"Decimal.h"
+i"Debug.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Math/FloatToText.h
+c000000004AB2A4D600000000000000F2
+t1253221590
+s242
+i<math.h>
+
+N/Users/justbuchanan/Projects/Go Figure/Math/FloatToText.m
+c000000004AB2F3F600000000000012AE
+t1253241846
+s4782
+i"FloatToText.h"
+i<Foundation/Foundation.h>
+i"Debug.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Math/JBAngleUnit.h
+c000000004AB6E06D0000000000000193
+t1253498989
+s403
+i<math.h>
+i<stdio.h>
+i"Decimal.h"
+i"Defines.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Math/JBAngleUnit.m
+c000000004AB6E0390000000000000335
+t1253498937
+s821
+i"JBAngleUnit.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Math/NSString+FloatParsing.h
+c000000004AB650E100000000000002C4
+t1253462241
+s708
+i<Foundation/Foundation.h>
+i"Decimal.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Math/NSString+FloatParsing.m
+c000000004AB650CE0000000000001196
+t1253462222
+s4502
+i"NSString+FloatParsing.h"
+i"Debug.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Math/Old/SMUncertainNumber.h
+c000000004A970501000000000000016B
+t1251411201
+s363
+i"SMNumber.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Math/SMCertainNumber.h
+c000000004AA5562100000000000000DF
+t1252349473
+s223
+i"SMNumber.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Math/SMCertainNumber.m
+c000000004ABD8C880000000000002984
+t1253936264
+s10628
+i"SMCertainNumber.h"
+i"Debug.h"
+i"Defines.h"
+i"SMNumber.h"
+i"NSString+FloatParsing.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Math/SMNumber.h
+c000000004AB81739000000000000092E
+t1253578553
+s2350
+i<Foundation/NSObject.h>
+i<Foundation/NSString.h>
+i"JBAngleUnit.h"
+i<math.h>
+i"Decimal.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Math/SMNumber.m
+c000000004AB7F50800000000000009D9
+t1253569800
+s2521
+i"SMNumber.h"
+i"SMSigFigNumber.h"
+i"SMUncertainNumber.h"
+i"SMCertainNumber.h"
+i"Debug.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Math/SMRPNCalculator.h
+c000000004AE0F94A00000000000007BF
+t1256257866
+s1983
+i<Foundation/Foundation.h>
+i"SMNumber.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Math/SMRPNCalculator.m
+c000000004AE0FB6A0000000000002BC1
+t1256258410
+s11201
+i"SMRPNCalculator.h"
+i"Debug.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Math/SMSigFigNumber.h
+c000000004ABECC370000000000000242
+t1254018103
+s578
+i"SMNumber.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Math/SMSigFigNumber.m
+c000000004ABF7F4A00000000000040E0
+t1254063946
+s16608
+i"SMSigFigNumber.h"
+i"NSString+FloatParsing.h"
+i"Debug.h"
+i"Defines.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Other Sources/Debug.h
+c000000004AEACD9C00000000000001AB
+t1256902044
+s427
+
+N/Users/justbuchanan/Projects/Go Figure/Other Sources/Defines.h
+c000000004ABE8C9D00000000000002FD
+t1254001821
+s765
+
+N/Users/justbuchanan/Projects/Go Figure/Other Sources/Precision_RPNAppDelegate.h
+c000000004AB0478D000000000000031D
+t1253066637
+s797
+i<UIKit/UIKit.h>
+i"RPNCalculatorViewController.h"
+i"SettingsViewController.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Other Sources/Precision_RPNAppDelegate.m
+c000000004AEACCB1000000000000187E
+t1256901809
+s6270
+i"Precision_RPNAppDelegate.h"
+i"Debug.h"
+i"SMCertainNumber.h"
+
+N/Users/justbuchanan/Projects/Go Figure/Other Sources/Precision_RPN_Prefix.pch
+c000000004A8883BC00000000000000C3
+t1250460604
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/justbuchanan/Projects/Go Figure/Other Sources/main.m
+c000000004A9C7A8C000000000000018E
+t1251768972
+s398
+i<UIKit/UIKit.h>
+
+N/Users/justbuchanan/Projects/Go Figure/Resources/Entitlements.plist
+c000000004921E65800000000000000E1
+t1226958424
+s225
+
+N/Users/justbuchanan/Projects/Go Figure/Resources/Errors.strings
+c000000004ABAD3D8000000000000021E
+t1253757912
+s542
+
+N/Users/justbuchanan/Projects/Go Figure/Resources/Localizable.strings
+c000000004ABEF1A7000000000000024F
+t1254027687
+s591
+
+N/Users/justbuchanan/Projects/Go Figure/Resources/RPNCalculatorView.xib
+c000000004AEB51930000000000013AD5
+t1256935827
+s80597
+
+N/Users/justbuchanan/Projects/Go Figure/ShakeView.h
+c000000004AEB508C00000000000000D6
+t1256935564
+s214
+i<UIKit/UIKit.h>
+
+N/Users/justbuchanan/Projects/Go Figure/ShakeView.m
+c000000004AEB5147000000000000051D
+t1256935751
+s1309
+i"ShakeView.h"
+
+N/Users/justbuchanan/Projects/Go Figure/UI/RPNCalculatorViewController.h
+c000000004ABAD1BD0000000000000A68
+t1253757373
+s2664
+i<UIKit/UIKit.h>
+i"StackViewController.h"
+i"SMRPNCalculator.h"
+
+N/Users/justbuchanan/Projects/Go Figure/UI/RPNCalculatorViewController.m
+c000000004AEB524700000000000034ED
+t1256936007
+s13549
+i"RPNCalculatorViewController.h"
+i"SMSigFigNumber.h"
+i"SMCertainNumber.h"
+i"SMUncertainNumber.h"
+i"Debug.h"
+i"Defines.h"
+
+N/Users/justbuchanan/Projects/Go Figure/UI/SettingsViewController.h
+c000000004ABE18280000000000000389
+t1253972008
+s905
+i<UIKit/UIKit.h>
+i"SMNumber.h"
+i"JBAngleUnit.h"
+i"SwitchCell.h"
+
+N/Users/justbuchanan/Projects/Go Figure/UI/SettingsViewController.m
+c000000004ABEF1D20000000000000E28
+t1254027730
+s3624
+i"SettingsViewController.h"
+
+N/Users/justbuchanan/Projects/Go Figure/UI/StackViewController.h
+c000000004AE0FB8A000000000000057C
+t1256258442
+s1404
+i<UIKit/UIKit.h>
+i"SMNumber.h"
+i"ValueCell.h"
+
+N/Users/justbuchanan/Projects/Go Figure/UI/StackViewController.m
+c000000004AE0FBE000000000000019A0
+t1256258528
+s6560
+i"StackViewController.h"
+i"Debug.h"
+
+N/Users/justbuchanan/Projects/Go Figure/UI/SwitchCell.h
+c000000004ABEE3B20000000000000253
+t1254024114
+s595
+i<UIKit/UIKit.h>
+
+N/Users/justbuchanan/Projects/Go Figure/UI/SwitchCell.m
+c000000004ABEE3F50000000000000595
+t1254024181
+s1429
+i"SwitchCell.h"
+
+N/Users/justbuchanan/Projects/Go Figure/UI/ValueCell.h
+c000000004A9B32410000000000000189
+t1251684929
+s393
+i<UIKit/UIKit.h>
+i"SMNumber.h"
+
+N/Users/justbuchanan/Projects/Go Figure/UI/ValueCell.m
+c000000004ABACFD3000000000000036D
+t1253756883
+s877
+i"ValueCell.h"
+
+N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphonesimulator/Go Figure.app
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphonesimulator/Go Figure.app.dSYM
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphonesimulator/Go Figure.app/Background6.png
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphonesimulator/Go Figure.app/Default.png
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphonesimulator/Go Figure.app/Entitlements.plist
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphonesimulator/Go Figure.app/Errors.strings
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphonesimulator/Go Figure.app/Go Figure
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphonesimulator/Go Figure.app/Info.plist
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphonesimulator/Go Figure.app/Localizable.strings
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphonesimulator/Go Figure.app/PkgInfo
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphonesimulator/Go Figure.app/RPNCalculatorView.nib
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphonesimulator/Go Figure.app/button_down_graphite.png
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphonesimulator/Go Figure.app/buttun_up_graphite.png
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphonesimulator/Go Figure.app/buttun_up_long_graphite.png
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphonesimulator/Go Figure.app/buttun_up_long_orange.png
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphonesimulator/Go Figure.app/buttun_up_white.png
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphonesimulator/Go Figure.app/i.png
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphonesimulator/Go Figure.app/icon.png
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphonesimulator/Go Figure.app/sqrt.png
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphonesimulator/Go Figure.app/xroot.png
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphonesimulator/Go Figure.app/yx.png
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/Decimal.o
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/FloatToText.o
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/Go Figure.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/JBAngleUnit.o
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/NSString+FloatParsing.o
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/Precision_RPNAppDelegate.o
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/RPNCalculatorViewController.o
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/SMCertainNumber.o
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/SMNumber.o
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/SMRPNCalculator.o
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/SMSigFigNumber.o
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/SettingsViewController.o
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/ShakeView.o
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/StackViewController.o
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/SwitchCell.o
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/ValueCell.o
+t2
+s0
+
+N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-bichfrddiqolfgagsjnyzcsqdkin/Precision_RPN_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-ghqizyjbnzdqumgcshhasnsvjpwk/Precision_RPN_Prefix.pch.gch
+t2
+s0
+
+NResources/Info.plist
+c000000004AC1686C00000000000003A9
+t1254189164
+s937
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/Decimal.o" "/Users/justbuchanan/Desktop/Go Figure 2/Math/Decimal.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/Decimal.o" "/Users/justbuchanan/Projects/Go Figure/Math/Decimal.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/FloatToText.o" "/Users/justbuchanan/Desktop/Go Figure 2/Math/FloatToText.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/FloatToText.o" "/Users/justbuchanan/Projects/Go Figure/Math/FloatToText.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/JBAngleUnit.o" "/Users/justbuchanan/Desktop/Go Figure 2/Math/JBAngleUnit.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/JBAngleUnit.o" "/Users/justbuchanan/Projects/Go Figure/Math/JBAngleUnit.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/NSString+FloatParsing.o" "/Users/justbuchanan/Desktop/Go Figure 2/Math/NSString+FloatParsing.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/NSString+FloatParsing.o" "/Users/justbuchanan/Projects/Go Figure/Math/NSString+FloatParsing.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/Precision_RPNAppDelegate.o" "/Users/justbuchanan/Desktop/Go Figure 2/Other Sources/Precision_RPNAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/Precision_RPNAppDelegate.o" "/Users/justbuchanan/Projects/Go Figure/Other Sources/Precision_RPNAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/RPNCalculatorViewController.o" "/Users/justbuchanan/Desktop/Go Figure 2/UI/RPNCalculatorViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/RPNCalculatorViewController.o" "/Users/justbuchanan/Projects/Go Figure/UI/RPNCalculatorViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/SMCertainNumber.o" "/Users/justbuchanan/Desktop/Go Figure 2/Math/SMCertainNumber.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/SMCertainNumber.o" "/Users/justbuchanan/Projects/Go Figure/Math/SMCertainNumber.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/SMNumber.o" "/Users/justbuchanan/Desktop/Go Figure 2/Math/SMNumber.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/SMNumber.o" "/Users/justbuchanan/Projects/Go Figure/Math/SMNumber.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/SMRPNCalculator.o" "/Users/justbuchanan/Desktop/Go Figure 2/Math/SMRPNCalculator.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/SMRPNCalculator.o" "/Users/justbuchanan/Projects/Go Figure/Math/SMRPNCalculator.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/SMSigFigNumber.o" "/Users/justbuchanan/Desktop/Go Figure 2/Math/SMSigFigNumber.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/SMSigFigNumber.o" "/Users/justbuchanan/Projects/Go Figure/Math/SMSigFigNumber.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/SettingsViewController.o" "/Users/justbuchanan/Desktop/Go Figure 2/UI/SettingsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/SettingsViewController.o" "/Users/justbuchanan/Projects/Go Figure/UI/SettingsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/ShakeView.o" "/Users/justbuchanan/Desktop/Go Figure 2/ShakeView.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/ShakeView.o" "/Users/justbuchanan/Projects/Go Figure/ShakeView.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/StackViewController.o" "/Users/justbuchanan/Desktop/Go Figure 2/UI/StackViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/StackViewController.o" "/Users/justbuchanan/Projects/Go Figure/UI/StackViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/SwitchCell.o" "/Users/justbuchanan/Desktop/Go Figure 2/UI/SwitchCell.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/SwitchCell.o" "/Users/justbuchanan/Projects/Go Figure/UI/SwitchCell.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/ValueCell.o" "/Users/justbuchanan/Desktop/Go Figure 2/UI/ValueCell.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/ValueCell.o" "/Users/justbuchanan/Projects/Go Figure/UI/ValueCell.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/main.o" "/Users/justbuchanan/Desktop/Go Figure 2/Other Sources/main.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Go Figure.build/Ad Hoc-iphonesimulator/Go Figure.build/Objects-normal/i386/main.o" "/Users/justbuchanan/Projects/Go Figure/Other Sources/main.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileXIB "/Users/justbuchanan/Desktop/Go Figure 2/Resources/RPNCalculatorView.xib"
+r0
+
+CCompileXIB "/Users/justbuchanan/Projects/Go Figure/Resources/RPNCalculatorView.xib"
+r0
+
+CCopyPlistFile "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphonesimulator/Go Figure.app/Entitlements.plist" Resources/Entitlements.plist
+r0
+
+CCopyPlistFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphonesimulator/Go Figure.app/Entitlements.plist" Resources/Entitlements.plist
+r0
+
+CCopyStringsFile "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphonesimulator/Go Figure.app/Errors.strings" Resources/Errors.strings
+r0
+
+CCopyStringsFile "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphonesimulator/Go Figure.app/Localizable.strings" Resources/Localizable.strings
+r0
+
+CCopyStringsFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphonesimulator/Go Figure.app/Errors.strings" Resources/Errors.strings
+r0
+
+CCopyStringsFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphonesimulator/Go Figure.app/Localizable.strings" Resources/Localizable.strings
+r0
+
+CCpResource "build/Ad Hoc-iphonesimulator/Go Figure.app/Background6.png" Images/Background6.png
+r0
+
+CCpResource "build/Ad Hoc-iphonesimulator/Go Figure.app/Default.png" Images/Default.png
+r0
+
+CCpResource "build/Ad Hoc-iphonesimulator/Go Figure.app/button_down_graphite.png" Images/button_down_graphite.png
+r0
+
+CCpResource "build/Ad Hoc-iphonesimulator/Go Figure.app/buttun_up_graphite.png" Images/buttun_up_graphite.png
+r0
+
+CCpResource "build/Ad Hoc-iphonesimulator/Go Figure.app/buttun_up_long_graphite.png" Images/buttun_up_long_graphite.png
+r0
+
+CCpResource "build/Ad Hoc-iphonesimulator/Go Figure.app/buttun_up_long_orange.png" Images/buttun_up_long_orange.png
+r0
+
+CCpResource "build/Ad Hoc-iphonesimulator/Go Figure.app/buttun_up_white.png" Images/buttun_up_white.png
+r0
+
+CCpResource "build/Ad Hoc-iphonesimulator/Go Figure.app/i.png" Images/i.png
+r0
+
+CCpResource "build/Ad Hoc-iphonesimulator/Go Figure.app/icon.png" Images/icon.png
+r0
+
+CCpResource "build/Ad Hoc-iphonesimulator/Go Figure.app/sqrt.png" Images/sqrt.png
+r0
+
+CCpResource "build/Ad Hoc-iphonesimulator/Go Figure.app/xroot.png" Images/xroot.png
+r0
+
+CCpResource "build/Ad Hoc-iphonesimulator/Go Figure.app/yx.png" Images/yx.png
+r0
+
+CGenerateDSYMFile "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphonesimulator/Go Figure.app.dSYM" "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphonesimulator/Go Figure.app/Go Figure"
+r0
+
+CGenerateDSYMFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphonesimulator/Go Figure.app.dSYM" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphonesimulator/Go Figure.app/Go Figure"
+r0
+
+CLd "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphonesimulator/Go Figure.app/Go Figure" normal i386
+r0
+
+CLd "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphonesimulator/Go Figure.app/Go Figure" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphonesimulator/Go Figure.app/Info.plist" Resources/Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphonesimulator/Go Figure.app/Info.plist" Resources/Info.plist
+r0
+
+CProcessPCH /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-bichfrddiqolfgagsjnyzcsqdkin/Precision_RPN_Prefix.pch.gch "Other Sources/Precision_RPN_Prefix.pch" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CProcessPCH /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-ghqizyjbnzdqumgcshhasnsvjpwk/Precision_RPN_Prefix.pch.gch "Other Sources/Precision_RPN_Prefix.pch" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CTouch "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphonesimulator/Go Figure.app"
+r0
+
+CTouch "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphonesimulator/Go Figure.app"
+r0
+

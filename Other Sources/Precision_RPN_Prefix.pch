@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Precision RPN' target in the 'Precision RPN' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

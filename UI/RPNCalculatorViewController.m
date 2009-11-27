@@ -226,12 +226,12 @@
 	
 	NSRange decimalRange = [_valueBeingConstructed rangeOfString:@"."];
 	
-	NSScanner *scanner = [NSScanner scannerWithString:_valueBeingConstructed];
-	NSCharacterSet *charactersToCount = [NSCharacterSet characterSetWithCharactersInString:@"."];
-	NSString *charactersFromString = nil;
-	[scanner scanCharactersFromSet:charactersToCount intoString:&charactersFromString];
-	NSLog(@"charactersfromstring = %@", charactersFromString);
-	NSInteger decimalCount = [charactersFromString length]; 
+	NSInteger decimalCount = 0;
+	const char *string = [_valueBeingConstructed UTF8String];
+	for ( int i = 0; string[i] != '\0'; i++ )
+	{
+		if ( string[i] == '.' ) ++decimalCount;
+	}
 	
 	NSRange eRange = [_valueBeingConstructed rangeOfString:@"E"];
 	
@@ -244,9 +244,9 @@
 		[self _appendCharacterToValueBeingConstructed:'.'];
 	}
 	
-		NSLog(@"decimal location = %d", decimalRange.location);
-		NSLog(@"e location = %d", [_valueBeingConstructed rangeOfString:@"E"].location);
-		NSLog(@"decimal count = %d", decimalCount);
+	NSLog(@"decimal location = %d", decimalRange.location);
+	NSLog(@"e location = %d", [_valueBeingConstructed rangeOfString:@"E"].location);
+	NSLog(@"decimal count = %d", decimalCount);
 }
 
 - (void)button0Pressed:(id)sender

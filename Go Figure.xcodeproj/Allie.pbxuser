@@ -7,12 +7,13 @@
 		argumentStrings = (
 		);
 		autoAttachOnCrash = 1;
-		breakpointsEnabled = 1;
+		breakpointsEnabled = 0;
 		configStateDict = {
 		};
 		customDataFormattersEnabled = 1;
 		debuggerPlugin = GDBDebugging;
 		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
 		enableDebugStr = 1;
 		environmentEntries = (
 		);
@@ -20,6 +21,8 @@
 		executableUserSymbolLevel = 0;
 		libgmallocEnabled = 0;
 		name = "Go Figure";
+		savedGlobals = {
+		};
 		sourceDirectories = (
 		);
 	};
@@ -33,6 +36,26 @@
 	09A326BB10BF3D9B007703B4 /* Code sense */ = {
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
+	};
+	09A326DD10BF5318007703B4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EDE6901B1072BDC00075CB48 /* RPNCalculatorViewController.m */;
+		name = "RPNCalculatorViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 384;
+		vrLoc = 0;
+	};
+	09A326DE10BF5318007703B4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EDE6901B1072BDC00075CB48 /* RPNCalculatorViewController.m */;
+		name = "RPNCalculatorViewController.m: 231";
+		rLen = 0;
+		rLoc = 6551;
+		rType = 0;
+		vrLen = 857;
+		vrLoc = 6320;
 	};
 	1D6058900D05DD3D006BFB54 /* Go Figure */ = {
 		activeExec = 0;
@@ -49,11 +72,44 @@
 			09A326AB10BF3D7B007703B4 /* Go Figure */,
 		);
 		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
 			PBXPerProjectTemplateStateSaveDate = 280968571;
 			PBXWorkspaceStateSaveDate = 280968571;
 		};
+		perUserProjectItems = {
+			09A326DD10BF5318007703B4 /* PBXTextBookmark */ = 09A326DD10BF5318007703B4 /* PBXTextBookmark */;
+			09A326DE10BF5318007703B4 /* PBXTextBookmark */ = 09A326DE10BF5318007703B4 /* PBXTextBookmark */;
+		};
 		sourceControlManager = 09A326BA10BF3D9B007703B4 /* Source Control */;
 		userBuildSettings = {
+		};
+	};
+	EDE6901B1072BDC00075CB48 /* RPNCalculatorViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 7406}}";
+			sepNavSelRange = "{6551, 0}";
+			sepNavVisRange = "{6320, 857}";
 		};
 	};
 }

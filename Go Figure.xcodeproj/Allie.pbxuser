@@ -1,0 +1,59 @@
+// !$*UTF8*$!
+{
+	09A326AB10BF3D7B007703B4 /* Go Figure */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Go Figure";
+		sourceDirectories = (
+		);
+	};
+	09A326BA10BF3D9B007703B4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	09A326BB10BF3D9B007703B4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1D6058900D05DD3D006BFB54 /* Go Figure */ = {
+		activeExec = 0;
+		executables = (
+			09A326AB10BF3D7B007703B4 /* Go Figure */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 09A326AB10BF3D7B007703B4 /* Go Figure */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Go Figure */;
+		codeSenseManager = 09A326BB10BF3D9B007703B4 /* Code sense */;
+		executables = (
+			09A326AB10BF3D7B007703B4 /* Go Figure */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 280968571;
+			PBXWorkspaceStateSaveDate = 280968571;
+		};
+		sourceControlManager = 09A326BA10BF3D9B007703B4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

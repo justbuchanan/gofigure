@@ -330,15 +330,12 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>EDFDBC57109BC5D200C4E1CB</string>
+										<string>ED11A85410D55AD6002EFA29</string>
 										<key>history</key>
 										<array>
 											<string>EDAD23D510476A59002948F4</string>
 											<string>EDAD23D710476A59002948F4</string>
 											<string>ED016CC610497A21001AE08B</string>
-											<string>ED016DD41049D0B4001AE08B</string>
-											<string>ED016E89104A19A4001AE08B</string>
-											<string>ED016E8D104A19A4001AE08B</string>
 											<string>ED016FC3104B4A6B001AE08B</string>
 											<string>EDC9F26E10505348009FC102</string>
 											<string>ED90A3551059CEE200020A9E</string>
@@ -378,7 +375,7 @@
 											<string>EDFDBC40109BC39200C4E1CB</string>
 											<string>EDFDBC41109BC39200C4E1CB</string>
 											<string>EDFDBC56109BC5D200C4E1CB</string>
-											<string>EDE690881072C4AD0075CB48</string>
+											<string>EDFDBC57109BC5D200C4E1CB</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -390,14 +387,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1661, 853}}</string>
+								<string>{{0, 0}, {1661, 849}}</string>
 								<key>RubberWindowFrame</key>
 								<string>0 105 1920 1073 0 0 1920 1178 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>853pt</string>
+							<string>849pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -410,14 +407,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 858}, {1661, 174}}</string>
+								<string>{{0, 854}, {1661, 178}}</string>
 								<key>RubberWindowFrame</key>
 								<string>0 105 1920 1073 0 0 1920 1178 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>174pt</string>
+							<string>178pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -436,9 +433,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>EDFDBC58109BC5D200C4E1CB</string>
+				<string>ED11A85510D55AD6002EFA29</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>EDFDBC59109BC5D200C4E1CB</string>
+				<string>ED11A85610D55AD6002EFA29</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -655,7 +652,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>ED4BA261103CADDF0075837F</string>
-				<string>EDFDBC5A109BC5D200C4E1CB</string>
+				<string>ED11A85710D55AD6002EFA29</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>

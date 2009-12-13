@@ -222,31 +222,10 @@
 
 - (void)buttonDecimalPressed:(id)sender
 {
-	NSLog(@"decimal button pressed");
-	
-	NSRange decimalRange = [_valueBeingConstructed rangeOfString:@"."];
-	
-	NSInteger decimalCount = 0;
-	const char *string = [_valueBeingConstructed UTF8String];
-	for ( int i = 0; string[i] != '\0'; i++ )
-	{
-		if ( string[i] == '.' ) ++decimalCount;
-	}
-	
-	NSRange eRange = [_valueBeingConstructed rangeOfString:@"E"];
-	
-	if ( decimalRange.location == NSNotFound )
+	if ( [_valueBeingConstructed rangeOfString:@"."].location == NSNotFound )
 	{
 		[self _appendCharacterToValueBeingConstructed:'.'];
 	}
-	else if ( (decimalRange.location < eRange.location && eRange.location != NSNotFound ) && (decimalCount == 1) )
-	{
-		[self _appendCharacterToValueBeingConstructed:'.'];
-	}
-	
-	NSLog(@"decimal location = %d", decimalRange.location);
-	NSLog(@"e location = %d", [_valueBeingConstructed rangeOfString:@"E"].location);
-	NSLog(@"decimal count = %d", decimalCount);
 }
 
 - (void)button0Pressed:(id)sender

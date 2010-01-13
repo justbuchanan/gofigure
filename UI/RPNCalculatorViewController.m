@@ -222,11 +222,38 @@
 
 - (void)buttonDecimalPressed:(id)sender
 {
-	if ( [_valueBeingConstructed rangeOfString:@"."].location == NSNotFound )
+	NSUInteger decimalIndex =  [_valueBeingConstructed rangeOfString:@"."].location;
+	
+	if ( decimalIndex == NSNotFound )
 	{
-		[self _appendCharacterToValueBeingConstructed:'.'];
+		[_valueBeingConstructed appendString:@"."];
 	}
+	else if ( [_valueBeingConstructed rangeOfString:@"E"].location != NSNotFound )
+	{
+		BOOL decimalAfterE = NO;
+		unichar character;
+		for ( NSUInteger i = [_valueBeingConstructed length] - 1; character != 'E'; i-- )
+		{
+			character = [_valueBeingConstructed characterAtIndex:i];
+			if ( character == '.' )
+			{
+				decimalAfterE = YES;
+				break;
+			}
+		}
+		
+		if ( !decimalAfterE ) [_valueBeingConstructed appendString:@"."];
+	}
+	
+	_valueBeingConstructedLabel.text = _valueBeingConstructed;
 }
+
+
+
+
+
+
+
 
 - (void)button0Pressed:(id)sender
 {

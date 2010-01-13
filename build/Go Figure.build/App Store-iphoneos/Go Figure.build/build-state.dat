@@ -1,7 +1,7 @@
 TGo Figure
 v7
 r0
-t278644177.299462
+t282417967.855775
 cCheck dependencies
 cCpResource "build/App Store-iphoneos/Go Figure.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
 cProcessInfoPlistFile "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Info.plist" Resources/Info.plist
@@ -463,7 +463,7 @@ s160
 
 N/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Go Figure
 t1256951376
-s103892
+s110112
 
 N/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/Info.plist
 t1256951374
@@ -613,15 +613,16 @@ s937
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies278644174#278644174#0(0"0(0#1#0"4300885448#0"0#
+lSLF07#2@18"Check dependencies282417967#282417967#0(0"0(0#1#0"28429427921584240#0"0#
 
 CCodeSign "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app"
-s278644176.891790
-e278644177.299430
+s282417967.239699
+e282417967.855725
 r1
 xCodeSign
 x/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app
-lSLF07#2@49"CodeSign "build/App Store-iphoneos/Go Figure.app"278644176#278644177#0(0"0(0#0#77"/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app4300885448#669"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv CODESIGN_ALLOCATE /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Distribution: justin Buchanan" "--resource-rules=/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/ResourceRules.plist" --entitlements "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure.xcent" "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app"0#
+o/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app: replacing existing signature
+lSLF07#2@49"CodeSign "build/App Store-iphoneos/Go Figure.app"282417967#282417967#0(108"/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app: replacing existing signature0(0#0#77"/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app29273878621126700#669"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv CODESIGN_ALLOCATE /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Distribution: justin Buchanan" "--resource-rules=/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app/ResourceRules.plist" --entitlements "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/App Store-iphoneos/Go Figure.build/Go Figure.xcent" "/Users/justbuchanan/Projects/Go Figure/build/App Store-iphoneos/Go Figure.app"0#
 
 CCompileC "build/Go Figure.build/App Store-iphoneos/Go Figure.build/Objects-normal/armv6/Decimal.o" "/Users/justbuchanan/Projects/Go Figure/Math/Decimal.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
 s278644176.200960

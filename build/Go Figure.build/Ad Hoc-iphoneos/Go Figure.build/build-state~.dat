@@ -1,49 +1,49 @@
 TGo Figure
 v7
 r0
-t278643339.492437
+t285108738.262826
 cCheck dependencies
 cCpResource "build/Ad Hoc-iphoneos/Go Figure.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
-cProcessInfoPlistFile "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/Info.plist" Resources/Info.plist
-cCopyPNGFile "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/Default.png" Images/Default.png
-cCopyPNGFile "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/Background6.png" Images/Background6.png
-cCopyPNGFile "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/i.png" Images/i.png
-cCopyPNGFile "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_graphite.png" Images/buttun_up_graphite.png
-cCopyPNGFile "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_white.png" Images/buttun_up_white.png
-cCopyPNGFile "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_long_graphite.png" Images/buttun_up_long_graphite.png
-cCopyPNGFile "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_long_orange.png" Images/buttun_up_long_orange.png
-cCopyPNGFile "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/yx.png" Images/yx.png
-cCopyPNGFile "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/button_down_graphite.png" Images/button_down_graphite.png
-cCopyPNGFile "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/icon.png" Images/icon.png
-cCopyPlistFile "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/Entitlements.plist" Resources/Entitlements.plist
-cCopyStringsFile "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/Errors.strings" Resources/Errors.strings
-cCopyStringsFile "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/Localizable.strings" Resources/Localizable.strings
-cCompileXIB "/Users/justbuchanan/Desktop/Go Figure 2/Resources/RPNCalculatorView.xib"
-cCopyPNGFile "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/xroot.png" Images/xroot.png
-cCopyPNGFile "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/sqrt.png" Images/sqrt.png
-cProcessPCH /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-goylbnyicfoavdcjhktugsvctxgj/Precision_RPN_Prefix.pch.gch "Other Sources/Precision_RPN_Prefix.pch" normal armv6 objective-c com.apple.compilers.gcc.4_0
-cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/RPNCalculatorViewController.o" "/Users/justbuchanan/Desktop/Go Figure 2/UI/RPNCalculatorViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SettingsViewController.o" "/Users/justbuchanan/Desktop/Go Figure 2/UI/SettingsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/StackViewController.o" "/Users/justbuchanan/Desktop/Go Figure 2/UI/StackViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SwitchCell.o" "/Users/justbuchanan/Desktop/Go Figure 2/UI/SwitchCell.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/ValueCell.o" "/Users/justbuchanan/Desktop/Go Figure 2/UI/ValueCell.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/Decimal.o" "/Users/justbuchanan/Desktop/Go Figure 2/Math/Decimal.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/FloatToText.o" "/Users/justbuchanan/Desktop/Go Figure 2/Math/FloatToText.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/JBAngleUnit.o" "/Users/justbuchanan/Desktop/Go Figure 2/Math/JBAngleUnit.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMCertainNumber.o" "/Users/justbuchanan/Desktop/Go Figure 2/Math/SMCertainNumber.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMNumber.o" "/Users/justbuchanan/Desktop/Go Figure 2/Math/SMNumber.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMRPNCalculator.o" "/Users/justbuchanan/Desktop/Go Figure 2/Math/SMRPNCalculator.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMSigFigNumber.o" "/Users/justbuchanan/Desktop/Go Figure 2/Math/SMSigFigNumber.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/main.o" "/Users/justbuchanan/Desktop/Go Figure 2/Other Sources/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/Precision_RPNAppDelegate.o" "/Users/justbuchanan/Desktop/Go Figure 2/Other Sources/Precision_RPNAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/NSString+FloatParsing.o" "/Users/justbuchanan/Desktop/Go Figure 2/Math/NSString+FloatParsing.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/ShakeView.o" "/Users/justbuchanan/Desktop/Go Figure 2/ShakeView.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-cLd "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/Go Figure" normal armv6
-cGenerateDSYMFile "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app.dSYM" "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/Go Figure"
-cProcessProductPackaging "/Users/justbuchanan/Library/MobileDevice/Provisioning Profiles/95D164AB-6A7A-4B3F-AAF9-37092D10B64C.mobileprovision" "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/embedded.mobileprovision"
-cTouch "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app"
-cProcessProductPackaging "/Users/justbuchanan/Desktop/Go Figure 2/Resources/Entitlements.plist" "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure.xcent"
-cCodeSign "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app"
+cProcessInfoPlistFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Info.plist" Resources/Info.plist
+cCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Default.png" Images/Default.png
+cCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Background6.png" Images/Background6.png
+cCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/i.png" Images/i.png
+cCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_graphite.png" Images/buttun_up_graphite.png
+cCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_white.png" Images/buttun_up_white.png
+cCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_long_graphite.png" Images/buttun_up_long_graphite.png
+cCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_long_orange.png" Images/buttun_up_long_orange.png
+cCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/yx.png" Images/yx.png
+cCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/button_down_graphite.png" Images/button_down_graphite.png
+cCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/icon.png" Images/icon.png
+cCopyPlistFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Entitlements.plist" Resources/Entitlements.plist
+cCopyStringsFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Errors.strings" Resources/Errors.strings
+cCopyStringsFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Localizable.strings" Resources/Localizable.strings
+cCompileXIB "/Users/justbuchanan/Projects/Go Figure/Resources/RPNCalculatorView.xib"
+cCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/xroot.png" Images/xroot.png
+cCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/sqrt.png" Images/sqrt.png
+cProcessPCH /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch.gch "Other Sources/Precision_RPN_Prefix.pch" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/RPNCalculatorViewController.o" "/Users/justbuchanan/Projects/Go Figure/UI/RPNCalculatorViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SettingsViewController.o" "/Users/justbuchanan/Projects/Go Figure/UI/SettingsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/StackViewController.o" "/Users/justbuchanan/Projects/Go Figure/UI/StackViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SwitchCell.o" "/Users/justbuchanan/Projects/Go Figure/UI/SwitchCell.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/ValueCell.o" "/Users/justbuchanan/Projects/Go Figure/UI/ValueCell.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/Decimal.o" "/Users/justbuchanan/Projects/Go Figure/Math/Decimal.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/FloatToText.o" "/Users/justbuchanan/Projects/Go Figure/Math/FloatToText.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/JBAngleUnit.o" "/Users/justbuchanan/Projects/Go Figure/Math/JBAngleUnit.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMCertainNumber.o" "/Users/justbuchanan/Projects/Go Figure/Math/SMCertainNumber.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMNumber.o" "/Users/justbuchanan/Projects/Go Figure/Math/SMNumber.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMRPNCalculator.o" "/Users/justbuchanan/Projects/Go Figure/Math/SMRPNCalculator.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMSigFigNumber.o" "/Users/justbuchanan/Projects/Go Figure/Math/SMSigFigNumber.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/main.o" "/Users/justbuchanan/Projects/Go Figure/Other Sources/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/Precision_RPNAppDelegate.o" "/Users/justbuchanan/Projects/Go Figure/Other Sources/Precision_RPNAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/NSString+FloatParsing.o" "/Users/justbuchanan/Projects/Go Figure/Math/NSString+FloatParsing.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/ShakeView.o" "/Users/justbuchanan/Projects/Go Figure/ShakeView.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
+cLd "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Go Figure" normal armv6
+cGenerateDSYMFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app.dSYM" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Go Figure"
+cProcessProductPackaging "/Users/justbuchanan/Library/MobileDevice/Provisioning Profiles/95D164AB-6A7A-4B3F-AAF9-37092D10B64C.mobileprovision" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/embedded.mobileprovision"
+cTouch "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app"
+cProcessProductPackaging "/Users/justbuchanan/Projects/Go Figure/Resources/Entitlements.plist" "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure.xcent"
+cCodeSign "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app"
 
 N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk
 c000000004ABFDAFE0000000000000110
@@ -513,7 +513,7 @@ s160
 
 N/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/Go Figure
 t1256950538
-s107976
+s114224
 
 N/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/Info.plist
 t1256950535
@@ -790,9 +790,9 @@ s223
 i"SMNumber.h"
 
 N/Users/justbuchanan/Projects/Go Figure/Math/SMCertainNumber.m
-c000000004ABD8C880000000000002984
-t1253936264
-s10628
+c000000004AEB8132000000000000290A
+t1256948018
+s10506
 i"SMCertainNumber.h"
 i"Debug.h"
 i"Defines.h"
@@ -810,9 +810,9 @@ i<math.h>
 i"Decimal.h"
 
 N/Users/justbuchanan/Projects/Go Figure/Math/SMNumber.m
-c000000004AB7F50800000000000009D9
-t1253569800
-s2521
+c000000004AEB811100000000000008CB
+t1256947985
+s2251
 i"SMNumber.h"
 i"SMSigFigNumber.h"
 i"SMUncertainNumber.h"
@@ -849,14 +849,14 @@ i"Debug.h"
 i"Defines.h"
 
 N/Users/justbuchanan/Projects/Go Figure/Other Sources/Debug.h
-c000000004AEACD9C00000000000001AB
-t1256902044
-s427
+c000000004AEB8C0000000000000001AD
+t1256950784
+s429
 
 N/Users/justbuchanan/Projects/Go Figure/Other Sources/Defines.h
-c000000004ABE8C9D00000000000002FD
-t1254001821
-s765
+c000000004AEB8852000000000000014E
+t1256949842
+s334
 
 N/Users/justbuchanan/Projects/Go Figure/Other Sources/Precision_RPNAppDelegate.h
 c000000004AB0478D000000000000031D
@@ -867,9 +867,9 @@ i"RPNCalculatorViewController.h"
 i"SettingsViewController.h"
 
 N/Users/justbuchanan/Projects/Go Figure/Other Sources/Precision_RPNAppDelegate.m
-c000000004AEACCB1000000000000187E
-t1256901809
-s6270
+c000000004AEB8AF50000000000001971
+t1256950517
+s6513
 i"Precision_RPNAppDelegate.h"
 i"Debug.h"
 i"SMCertainNumber.h"
@@ -929,9 +929,9 @@ i"StackViewController.h"
 i"SMRPNCalculator.h"
 
 N/Users/justbuchanan/Projects/Go Figure/UI/RPNCalculatorViewController.m
-c000000004AEB7B9D000000000000322C
-t1256946589
-s12844
+c000000004B2537910000000000003443
+t1260730257
+s13379
 i"RPNCalculatorViewController.h"
 i"SMSigFigNumber.h"
 i"SMCertainNumber.h"
@@ -963,9 +963,9 @@ i"SMNumber.h"
 i"ValueCell.h"
 
 N/Users/justbuchanan/Projects/Go Figure/UI/StackViewController.m
-c000000004AEB7E690000000000001A4D
-t1256947305
-s6733
+c000000004AEB89120000000000001AAD
+t1256950034
+s6829
 i"StackViewController.h"
 i"Debug.h"
 
@@ -995,172 +995,172 @@ s877
 i"ValueCell.h"
 
 N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app
-t1256947340
+t1263415938
 s850
 
 N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app.dSYM
-t1256947339
+t1263415937
 s102
 
 N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Background6.png
-t1256257693
+t1263415934
 s69524
 
 N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Default.png
-t1256257693
+t1263415934
 s64409
 
 N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Entitlements.plist
-t1256257693
+t1263415934
 s62
 
 N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Errors.strings
-t1256257693
+t1263415934
 s160
 
 N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Go Figure
-t1256947339
-s114176
+t1263415937
+s103848
 
 N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Info.plist
-t1256257692
-s700
+t1263415933
+s704
 
 N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Localizable.strings
-t1256257693
+t1263415934
 s458
 
 N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/PkgInfo
-t1256257692
+t1263415933
 s8
 
 N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/RPNCalculatorView.nib
-t1256947338
+t1263415935
 s14468
 
 N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/ResourceRules.plist
-t1256901846
+t1263415933
 s485
 
 N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/button_down_graphite.png
-t1256257693
+t1263415934
 s1353
 
 N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_graphite.png
-t1256257693
+t1263415934
 s1543
 
 N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_long_graphite.png
-t1256257693
+t1263415934
 s1679
 
 N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_long_orange.png
-t1256257693
+t1263415934
 s1767
 
 N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_white.png
-t1256257693
+t1263415934
 s1592
 
 N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/embedded.mobileprovision
-t1256902907
+t1263415937
 s7904
 
 N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/i.png
-t1256257693
+t1263415934
 s6636
 
 N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/icon.png
-t1256257693
+t1263415934
 s7491
 
 N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/sqrt.png
-t1256257693
+t1263415934
 s902
 
 N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/xroot.png
-t1256257693
+t1263415934
 s1047
 
 N/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/yx.png
-t1256257693
+t1263415934
 s794
 
 N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure.xcent
-t1256257696
+t1263415937
 s323
 
 N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/Decimal.o
-t1256902150
-s10132
+t1263415936
+s9276
 
 N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/FloatToText.o
-t1256902150
+t1263415936
 s4492
 
 N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/Go Figure.LinkFileList
-c000000004AEB7E890000000000000832
-t1256947337
+c000000004B4E327D0000000000000832
+t1263415933
 s2098
 
 N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/JBAngleUnit.o
-t1256901848
-s5408
+t1263415936
+s5432
 
 N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/NSString+FloatParsing.o
-t1256902150
+t1263415936
 s11732
 
 N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/Precision_RPNAppDelegate.o
-t1256902150
-s63080
+t1263415937
+s62112
 
 N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/RPNCalculatorViewController.o
-t1256947338
-s89840
+t1263415936
+s88600
 
 N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMCertainNumber.o
-t1256902150
-s31848
+t1263415936
+s31184
 
 N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMNumber.o
-t1256902150
-s17392
+t1263415936
+s16560
 
 N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMRPNCalculator.o
-t1256902150
-s42624
+t1263415936
+s41228
 
 N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMSigFigNumber.o
-t1256902150
-s43860
+t1263415936
+s42756
 
 N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SettingsViewController.o
-t1256901847
+t1263415936
 s44776
 
 N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/ShakeView.o
-t1256947338
-s14548
+t1263415937
+s13576
 
 N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/StackViewController.o
-t1256947338
-s53700
+t1263415936
+s53428
 
 N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SwitchCell.o
-t1256901848
+t1263415936
 s23528
 
 N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/ValueCell.o
-t1256901848
+t1263415936
 s20032
 
 N/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/main.o
-t1256901848
+t1263415936
 s6652
 
 N/var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch.gch
-t1256901847
+t1263415936
 s7782576
 
 N/var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-goylbnyicfoavdcjhktugsvctxgj/Precision_RPN_Prefix.pch.gch
@@ -1172,29 +1172,30 @@ t1256257695
 s7782576
 
 NResources/Info.plist
-c000000004AC1686C00000000000003A9
-t1254189164
+c000000004AEB8E4A00000000000003A9
+t1256951370
 s937
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies278643335#278643335#0(0"0(0#1#0"4300885448#0"0#
+lSLF07#2@18"Check dependencies285108733#285108733#0(0"0(0#1#0"4300885448#0"0#
 
 CCodeSign "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app"
-s278643338.976099
-e278643339.492393
+s278643382.292037
+e278643382.687103
 r1
 xCodeSign
 x/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app
-lSLF07#2@46"CodeSign "build/Ad Hoc-iphoneos/Go Figure.app"278643338#278643339#0(0"0(0#0#75"/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app4300885448#664"    cd "/Users/justbuchanan/Desktop/Go Figure 2"    setenv CODESIGN_ALLOCATE /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Distribution: justin Buchanan" "--resource-rules=/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/ResourceRules.plist" --entitlements "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure.xcent" "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app"0#
+o/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app: replacing existing signature
+lSLF07#2@46"CodeSign "build/Ad Hoc-iphoneos/Go Figure.app"278643382#278643382#0(106"/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app: replacing existing signature0(0#0#75"/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app4300885448#664"    cd "/Users/justbuchanan/Desktop/Go Figure 2"    setenv CODESIGN_ALLOCATE /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Distribution: justin Buchanan" "--resource-rules=/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/ResourceRules.plist" --entitlements "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure.xcent" "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app"0#
 
 CCodeSign "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app"
-s278640139.127003
-e278640140.472839
+s285108737.505554
+e285108738.262599
 r1
 xCodeSign
 x/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app
-lSLF07#2@46"CodeSign "build/Ad Hoc-iphoneos/Go Figure.app"278640139#278640140#0(0"0(0#0#74"/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app4300885448#660"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv CODESIGN_ALLOCATE /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Distribution: justin Buchanan" "--resource-rules=/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/ResourceRules.plist" --entitlements "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure.xcent" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app"0#
+lSLF07#2@46"CodeSign "build/Ad Hoc-iphoneos/Go Figure.app"285108737#285108738#0(0"0(0#0#74"/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app4300885448#660"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv CODESIGN_ALLOCATE /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Distribution: justin Buchanan" "--resource-rules=/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/ResourceRules.plist" --entitlements "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure.xcent" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/Decimal.o" "/Users/justbuchanan/Desktop/Go Figure 2/Math/Decimal.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
 s278643338.117067
@@ -1210,8 +1211,8 @@ xcom.apple.compilers.gcc.4_0
 lSLF07#2@62"Compile /Users/justbuchanan/Desktop/Go Figure 2/Math/Decimal.m278643338#278643338#0(0"0(0#0#54"/Users/justbuchanan/Desktop/Go Figure 2/Math/Decimal.m4300885448#1846"    cd "/Users/justbuchanan/Desktop/Go Figure 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-goylbnyicfoavdcjhktugsvctxgj/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Desktop/Go Figure 2/Math/Decimal.m" -o "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/Decimal.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/Decimal.o" "/Users/justbuchanan/Projects/Go Figure/Math/Decimal.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-s278594950.265515
-e278594950.339297
+s285108736.441519
+e285108736.518200
 r1
 xCompileC
 xbuild/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/Decimal.o
@@ -1220,7 +1221,7 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.gcc.4_0
-lSLF07#2@61"Compile /Users/justbuchanan/Projects/Go Figure/Math/Decimal.m278594950#278594950#0(0"0(0#0#53"/Users/justbuchanan/Projects/Go Figure/Math/Decimal.m4300885448#1835"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/Math/Decimal.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/Decimal.o"0#
+lSLF07#2@61"Compile /Users/justbuchanan/Projects/Go Figure/Math/Decimal.m285108736#285108737#0(0"0(0#0#53"/Users/justbuchanan/Projects/Go Figure/Math/Decimal.m4300885448#1835"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/Math/Decimal.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/Decimal.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/FloatToText.o" "/Users/justbuchanan/Desktop/Go Figure 2/Math/FloatToText.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
 s278643338.186621
@@ -1236,8 +1237,8 @@ xcom.apple.compilers.gcc.4_0
 lSLF07#2@66"Compile /Users/justbuchanan/Desktop/Go Figure 2/Math/FloatToText.m278643338#278643338#0(0"0(0#0#58"/Users/justbuchanan/Desktop/Go Figure 2/Math/FloatToText.m4300885448#1854"    cd "/Users/justbuchanan/Desktop/Go Figure 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-goylbnyicfoavdcjhktugsvctxgj/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Desktop/Go Figure 2/Math/FloatToText.m" -o "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/FloatToText.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/FloatToText.o" "/Users/justbuchanan/Projects/Go Figure/Math/FloatToText.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-s278594950.339407
-e278594950.377924
+s285108736.464479
+e285108736.501524
 r1
 xCompileC
 xbuild/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/FloatToText.o
@@ -1246,7 +1247,7 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.gcc.4_0
-lSLF07#2@65"Compile /Users/justbuchanan/Projects/Go Figure/Math/FloatToText.m278594950#278594950#0(0"0(0#0#57"/Users/justbuchanan/Projects/Go Figure/Math/FloatToText.m4300885448#1843"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/Math/FloatToText.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/FloatToText.o"0#
+lSLF07#2@65"Compile /Users/justbuchanan/Projects/Go Figure/Math/FloatToText.m285108736#285108737#0(0"0(0#0#57"/Users/justbuchanan/Projects/Go Figure/Math/FloatToText.m4300885448#1843"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/Math/FloatToText.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/FloatToText.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/JBAngleUnit.o" "/Users/justbuchanan/Desktop/Go Figure 2/Math/JBAngleUnit.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
 s278643338.230529
@@ -1262,8 +1263,8 @@ xcom.apple.compilers.gcc.4_0
 lSLF07#2@66"Compile /Users/justbuchanan/Desktop/Go Figure 2/Math/JBAngleUnit.m278643338#278643338#0(0"0(0#0#58"/Users/justbuchanan/Desktop/Go Figure 2/Math/JBAngleUnit.m4300885448#1854"    cd "/Users/justbuchanan/Desktop/Go Figure 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-goylbnyicfoavdcjhktugsvctxgj/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Desktop/Go Figure 2/Math/JBAngleUnit.m" -o "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/JBAngleUnit.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/JBAngleUnit.o" "/Users/justbuchanan/Projects/Go Figure/Math/JBAngleUnit.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-s278594648.223250
-e278594648.267391
+s285108736.501618
+e285108736.545297
 r1
 xCompileC
 xbuild/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/JBAngleUnit.o
@@ -1272,7 +1273,7 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.gcc.4_0
-lSLF07#2@65"Compile /Users/justbuchanan/Projects/Go Figure/Math/JBAngleUnit.m278594648#278594648#0(0"0(0#0#57"/Users/justbuchanan/Projects/Go Figure/Math/JBAngleUnit.m4300885448#1843"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/Math/JBAngleUnit.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/JBAngleUnit.o"0#
+lSLF07#2@65"Compile /Users/justbuchanan/Projects/Go Figure/Math/JBAngleUnit.m285108736#285108737#0(0"0(0#0#57"/Users/justbuchanan/Projects/Go Figure/Math/JBAngleUnit.m4300885448#1843"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/Math/JBAngleUnit.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/JBAngleUnit.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/NSString+FloatParsing.o" "/Users/justbuchanan/Desktop/Go Figure 2/Math/NSString+FloatParsing.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
 s278643338.746007
@@ -1288,8 +1289,8 @@ xcom.apple.compilers.gcc.4_0
 lSLF07#2@76"Compile /Users/justbuchanan/Desktop/Go Figure 2/Math/NSString+FloatParsing.m278643338#278643338#0(0"0(0#0#68"/Users/justbuchanan/Desktop/Go Figure 2/Math/NSString+FloatParsing.m4300885448#1874"    cd "/Users/justbuchanan/Desktop/Go Figure 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-goylbnyicfoavdcjhktugsvctxgj/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Desktop/Go Figure 2/Math/NSString+FloatParsing.m" -o "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/NSString+FloatParsing.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/NSString+FloatParsing.o" "/Users/justbuchanan/Projects/Go Figure/Math/NSString+FloatParsing.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-s278594950.826738
-e278594950.891837
+s285108736.902422
+e285108736.965411
 r1
 xCompileC
 xbuild/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/NSString+FloatParsing.o
@@ -1298,7 +1299,7 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.gcc.4_0
-lSLF07#2@75"Compile /Users/justbuchanan/Projects/Go Figure/Math/NSString+FloatParsing.m278594950#278594950#0(0"0(0#0#67"/Users/justbuchanan/Projects/Go Figure/Math/NSString+FloatParsing.m4300885448#1863"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/Math/NSString+FloatParsing.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/NSString+FloatParsing.o"0#
+lSLF07#2@75"Compile /Users/justbuchanan/Projects/Go Figure/Math/NSString+FloatParsing.m285108736#285108737#0(0"0(0#0#67"/Users/justbuchanan/Projects/Go Figure/Math/NSString+FloatParsing.m4300885448#1863"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/Math/NSString+FloatParsing.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/NSString+FloatParsing.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/Precision_RPNAppDelegate.o" "/Users/justbuchanan/Desktop/Go Figure 2/Other Sources/Precision_RPNAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
 s278643338.644601
@@ -1314,8 +1315,8 @@ xcom.apple.compilers.gcc.4_0
 lSLF07#2@88"Compile /Users/justbuchanan/Desktop/Go Figure 2/Other Sources/Precision_RPNAppDelegate.m278643338#278643338#0(0"0(0#0#80"/Users/justbuchanan/Desktop/Go Figure 2/Other Sources/Precision_RPNAppDelegate.m4300885448#1889"    cd "/Users/justbuchanan/Desktop/Go Figure 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-goylbnyicfoavdcjhktugsvctxgj/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Desktop/Go Figure 2/Other Sources/Precision_RPNAppDelegate.m" -o "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/Precision_RPNAppDelegate.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/Precision_RPNAppDelegate.o" "/Users/justbuchanan/Projects/Go Figure/Other Sources/Precision_RPNAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-s278594950.687713
-e278594950.853545
+s285108736.835099
+e285108737.003795
 r1
 xCompileC
 xbuild/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/Precision_RPNAppDelegate.o
@@ -1324,7 +1325,7 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.gcc.4_0
-lSLF07#2@87"Compile /Users/justbuchanan/Projects/Go Figure/Other Sources/Precision_RPNAppDelegate.m278594950#278594950#0(0"0(0#0#79"/Users/justbuchanan/Projects/Go Figure/Other Sources/Precision_RPNAppDelegate.m4300885448#1878"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/Other Sources/Precision_RPNAppDelegate.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/Precision_RPNAppDelegate.o"0#
+lSLF07#2@87"Compile /Users/justbuchanan/Projects/Go Figure/Other Sources/Precision_RPNAppDelegate.m285108736#285108737#0(0"0(0#0#79"/Users/justbuchanan/Projects/Go Figure/Other Sources/Precision_RPNAppDelegate.m4300885448#1878"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/Other Sources/Precision_RPNAppDelegate.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/Precision_RPNAppDelegate.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/RPNCalculatorViewController.o" "/Users/justbuchanan/Desktop/Go Figure 2/UI/RPNCalculatorViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
 s278643337.690540
@@ -1340,8 +1341,8 @@ xcom.apple.compilers.gcc.4_0
 lSLF07#2@80"Compile /Users/justbuchanan/Desktop/Go Figure 2/UI/RPNCalculatorViewController.m278643337#278643338#0(0"0(0#0#72"/Users/justbuchanan/Desktop/Go Figure 2/UI/RPNCalculatorViewController.m4300885448#1884"    cd "/Users/justbuchanan/Desktop/Go Figure 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-goylbnyicfoavdcjhktugsvctxgj/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Desktop/Go Figure 2/UI/RPNCalculatorViewController.m" -o "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/RPNCalculatorViewController.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/RPNCalculatorViewController.o" "/Users/justbuchanan/Projects/Go Figure/UI/RPNCalculatorViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-s278640138.347992
-e278640138.817921
+s285108736.101512
+e285108736.398314
 r1
 xCompileC
 xbuild/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/RPNCalculatorViewController.o
@@ -1350,7 +1351,7 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.gcc.4_0
-lSLF07#2@79"Compile /Users/justbuchanan/Projects/Go Figure/UI/RPNCalculatorViewController.m278640138#278640138#0(0"0(0#0#71"/Users/justbuchanan/Projects/Go Figure/UI/RPNCalculatorViewController.m4300885448#1873"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/UI/RPNCalculatorViewController.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/RPNCalculatorViewController.o"0#
+lSLF07#2@79"Compile /Users/justbuchanan/Projects/Go Figure/UI/RPNCalculatorViewController.m285108736#285108737#0(0"0(0#0#71"/Users/justbuchanan/Projects/Go Figure/UI/RPNCalculatorViewController.m4300885448#1873"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/UI/RPNCalculatorViewController.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/RPNCalculatorViewController.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMCertainNumber.o" "/Users/justbuchanan/Desktop/Go Figure 2/Math/SMCertainNumber.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
 s278643338.240324
@@ -1366,8 +1367,8 @@ xcom.apple.compilers.gcc.4_0
 lSLF07#2@70"Compile /Users/justbuchanan/Desktop/Go Figure 2/Math/SMCertainNumber.m278643338#278643338#0(0"0(0#0#62"/Users/justbuchanan/Desktop/Go Figure 2/Math/SMCertainNumber.m4300885448#1862"    cd "/Users/justbuchanan/Desktop/Go Figure 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-goylbnyicfoavdcjhktugsvctxgj/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Desktop/Go Figure 2/Math/SMCertainNumber.m" -o "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMCertainNumber.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMCertainNumber.o" "/Users/justbuchanan/Projects/Go Figure/Math/SMCertainNumber.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-s278594950.379939
-e278594950.570302
+s285108736.518293
+e285108736.670978
 r1
 xCompileC
 xbuild/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMCertainNumber.o
@@ -1376,7 +1377,7 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.gcc.4_0
-lSLF07#2@69"Compile /Users/justbuchanan/Projects/Go Figure/Math/SMCertainNumber.m278594950#278594950#0(0"0(0#0#61"/Users/justbuchanan/Projects/Go Figure/Math/SMCertainNumber.m4300885448#1851"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/Math/SMCertainNumber.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMCertainNumber.o"0#
+lSLF07#2@69"Compile /Users/justbuchanan/Projects/Go Figure/Math/SMCertainNumber.m285108736#285108737#0(0"0(0#0#61"/Users/justbuchanan/Projects/Go Figure/Math/SMCertainNumber.m4300885448#1851"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/Math/SMCertainNumber.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMCertainNumber.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMNumber.o" "/Users/justbuchanan/Desktop/Go Figure 2/Math/SMNumber.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
 s278643338.300269
@@ -1392,8 +1393,8 @@ xcom.apple.compilers.gcc.4_0
 lSLF07#2@63"Compile /Users/justbuchanan/Desktop/Go Figure 2/Math/SMNumber.m278643338#278643338#0(0"0(0#0#55"/Users/justbuchanan/Desktop/Go Figure 2/Math/SMNumber.m4300885448#1848"    cd "/Users/justbuchanan/Desktop/Go Figure 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-goylbnyicfoavdcjhktugsvctxgj/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Desktop/Go Figure 2/Math/SMNumber.m" -o "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMNumber.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMNumber.o" "/Users/justbuchanan/Projects/Go Figure/Math/SMNumber.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-s278594950.404670
-e278594950.481682
+s285108736.545400
+e285108736.608075
 r1
 xCompileC
 xbuild/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMNumber.o
@@ -1402,7 +1403,7 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.gcc.4_0
-lSLF07#2@62"Compile /Users/justbuchanan/Projects/Go Figure/Math/SMNumber.m278594950#278594950#0(0"0(0#0#54"/Users/justbuchanan/Projects/Go Figure/Math/SMNumber.m4300885448#1837"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/Math/SMNumber.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMNumber.o"0#
+lSLF07#2@62"Compile /Users/justbuchanan/Projects/Go Figure/Math/SMNumber.m285108736#285108737#0(0"0(0#0#54"/Users/justbuchanan/Projects/Go Figure/Math/SMNumber.m4300885448#1837"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/Math/SMNumber.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMNumber.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMRPNCalculator.o" "/Users/justbuchanan/Desktop/Go Figure 2/Math/SMRPNCalculator.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
 s278643338.376771
@@ -1418,8 +1419,8 @@ xcom.apple.compilers.gcc.4_0
 lSLF07#2@70"Compile /Users/justbuchanan/Desktop/Go Figure 2/Math/SMRPNCalculator.m278643338#278643338#0(0"0(0#0#62"/Users/justbuchanan/Desktop/Go Figure 2/Math/SMRPNCalculator.m4300885448#1862"    cd "/Users/justbuchanan/Desktop/Go Figure 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-goylbnyicfoavdcjhktugsvctxgj/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Desktop/Go Figure 2/Math/SMRPNCalculator.m" -o "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMRPNCalculator.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMRPNCalculator.o" "/Users/justbuchanan/Projects/Go Figure/Math/SMRPNCalculator.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-s278594950.481772
-e278594950.687523
+s285108736.608171
+e285108736.796183
 r1
 xCompileC
 xbuild/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMRPNCalculator.o
@@ -1428,7 +1429,7 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.gcc.4_0
-lSLF07#2@69"Compile /Users/justbuchanan/Projects/Go Figure/Math/SMRPNCalculator.m278594950#278594950#0(0"0(0#0#61"/Users/justbuchanan/Projects/Go Figure/Math/SMRPNCalculator.m4300885448#1851"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/Math/SMRPNCalculator.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMRPNCalculator.o"0#
+lSLF07#2@69"Compile /Users/justbuchanan/Projects/Go Figure/Math/SMRPNCalculator.m285108736#285108737#0(0"0(0#0#61"/Users/justbuchanan/Projects/Go Figure/Math/SMRPNCalculator.m4300885448#1851"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/Math/SMRPNCalculator.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMRPNCalculator.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMSigFigNumber.o" "/Users/justbuchanan/Desktop/Go Figure 2/Math/SMSigFigNumber.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
 s278643338.449900
@@ -1444,8 +1445,8 @@ xcom.apple.compilers.gcc.4_0
 lSLF07#2@69"Compile /Users/justbuchanan/Desktop/Go Figure 2/Math/SMSigFigNumber.m278643338#278643338#0(0"0(0#0#61"/Users/justbuchanan/Desktop/Go Figure 2/Math/SMSigFigNumber.m4300885448#1860"    cd "/Users/justbuchanan/Desktop/Go Figure 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-goylbnyicfoavdcjhktugsvctxgj/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Desktop/Go Figure 2/Math/SMSigFigNumber.m" -o "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMSigFigNumber.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMSigFigNumber.o" "/Users/justbuchanan/Projects/Go Figure/Math/SMSigFigNumber.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-s278594950.570405
-e278594950.826640
+s285108736.671068
+e285108736.902328
 r1
 xCompileC
 xbuild/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMSigFigNumber.o
@@ -1454,7 +1455,7 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.gcc.4_0
-lSLF07#2@68"Compile /Users/justbuchanan/Projects/Go Figure/Math/SMSigFigNumber.m278594950#278594950#0(0"0(0#0#60"/Users/justbuchanan/Projects/Go Figure/Math/SMSigFigNumber.m4300885448#1849"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/Math/SMSigFigNumber.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMSigFigNumber.o"0#
+lSLF07#2@68"Compile /Users/justbuchanan/Projects/Go Figure/Math/SMSigFigNumber.m285108736#285108737#0(0"0(0#0#60"/Users/justbuchanan/Projects/Go Figure/Math/SMSigFigNumber.m4300885448#1849"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/Math/SMSigFigNumber.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMSigFigNumber.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SettingsViewController.o" "/Users/justbuchanan/Desktop/Go Figure 2/UI/SettingsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
 s278643337.693265
@@ -1470,8 +1471,8 @@ xcom.apple.compilers.gcc.4_0
 lSLF07#2@75"Compile /Users/justbuchanan/Desktop/Go Figure 2/UI/SettingsViewController.m278643337#278643337#0(0"0(0#0#67"/Users/justbuchanan/Desktop/Go Figure 2/UI/SettingsViewController.m4300885448#1874"    cd "/Users/justbuchanan/Desktop/Go Figure 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-goylbnyicfoavdcjhktugsvctxgj/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Desktop/Go Figure 2/UI/SettingsViewController.m" -o "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SettingsViewController.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SettingsViewController.o" "/Users/justbuchanan/Projects/Go Figure/UI/SettingsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-s278594647.800162
-e278594647.939831
+s285108736.102634
+e285108736.230021
 r1
 xCompileC
 xbuild/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SettingsViewController.o
@@ -1480,7 +1481,7 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.gcc.4_0
-lSLF07#2@74"Compile /Users/justbuchanan/Projects/Go Figure/UI/SettingsViewController.m278594647#278594647#0(0"0(0#0#66"/Users/justbuchanan/Projects/Go Figure/UI/SettingsViewController.m4300885448#1863"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/UI/SettingsViewController.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SettingsViewController.o"0#
+lSLF07#2@74"Compile /Users/justbuchanan/Projects/Go Figure/UI/SettingsViewController.m285108736#285108737#0(0"0(0#0#66"/Users/justbuchanan/Projects/Go Figure/UI/SettingsViewController.m4300885448#1863"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/UI/SettingsViewController.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SettingsViewController.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/ShakeView.o" "/Users/justbuchanan/Desktop/Go Figure 2/ShakeView.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
 s278643338.817262
@@ -1496,8 +1497,8 @@ xcom.apple.compilers.gcc.4_0
 lSLF07#2@59"Compile /Users/justbuchanan/Desktop/Go Figure 2/ShakeView.m278643338#278643338#0(0"0(0#0#51"/Users/justbuchanan/Desktop/Go Figure 2/ShakeView.m4300885448#1845"    cd "/Users/justbuchanan/Desktop/Go Figure 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-goylbnyicfoavdcjhktugsvctxgj/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Desktop/Go Figure 2/ShakeView.m" -o "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/ShakeView.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/ShakeView.o" "/Users/justbuchanan/Projects/Go Figure/ShakeView.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-s278640138.691770
-e278640138.786668
+s285108736.965507
+e285108737.015194
 r1
 xCompileC
 xbuild/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/ShakeView.o
@@ -1506,7 +1507,7 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.gcc.4_0
-lSLF07#2@58"Compile /Users/justbuchanan/Projects/Go Figure/ShakeView.m278640138#278640138#0(0"0(0#0#50"/Users/justbuchanan/Projects/Go Figure/ShakeView.m4300885448#1834"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/ShakeView.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/ShakeView.o"0#
+lSLF07#2@58"Compile /Users/justbuchanan/Projects/Go Figure/ShakeView.m285108736#285108737#0(0"0(0#0#50"/Users/justbuchanan/Projects/Go Figure/ShakeView.m4300885448#1834"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/ShakeView.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/ShakeView.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/StackViewController.o" "/Users/justbuchanan/Desktop/Go Figure 2/UI/StackViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
 s278643337.831342
@@ -1522,8 +1523,8 @@ xcom.apple.compilers.gcc.4_0
 lSLF07#2@72"Compile /Users/justbuchanan/Desktop/Go Figure 2/UI/StackViewController.m278643337#278643338#0(0"0(0#0#64"/Users/justbuchanan/Desktop/Go Figure 2/UI/StackViewController.m4300885448#1868"    cd "/Users/justbuchanan/Desktop/Go Figure 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-goylbnyicfoavdcjhktugsvctxgj/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Desktop/Go Figure 2/UI/StackViewController.m" -o "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/StackViewController.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/StackViewController.o" "/Users/justbuchanan/Projects/Go Figure/UI/StackViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-s278640138.376655
-e278640138.690720
+s285108736.230113
+e285108736.362529
 r1
 xCompileC
 xbuild/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/StackViewController.o
@@ -1532,7 +1533,7 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.gcc.4_0
-lSLF07#2@71"Compile /Users/justbuchanan/Projects/Go Figure/UI/StackViewController.m278640138#278640138#0(0"0(0#0#63"/Users/justbuchanan/Projects/Go Figure/UI/StackViewController.m4300885448#1857"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/UI/StackViewController.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/StackViewController.o"0#
+lSLF07#2@71"Compile /Users/justbuchanan/Projects/Go Figure/UI/StackViewController.m285108736#285108737#0(0"0(0#0#63"/Users/justbuchanan/Projects/Go Figure/UI/StackViewController.m4300885448#1857"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/UI/StackViewController.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/StackViewController.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SwitchCell.o" "/Users/justbuchanan/Desktop/Go Figure 2/UI/SwitchCell.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
 s278643338.012668
@@ -1548,8 +1549,8 @@ xcom.apple.compilers.gcc.4_0
 lSLF07#2@63"Compile /Users/justbuchanan/Desktop/Go Figure 2/UI/SwitchCell.m278643338#278643338#0(0"0(0#0#55"/Users/justbuchanan/Desktop/Go Figure 2/UI/SwitchCell.m4300885448#1850"    cd "/Users/justbuchanan/Desktop/Go Figure 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-goylbnyicfoavdcjhktugsvctxgj/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Desktop/Go Figure 2/UI/SwitchCell.m" -o "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SwitchCell.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SwitchCell.o" "/Users/justbuchanan/Projects/Go Figure/UI/SwitchCell.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-s278594648.100683
-e278594648.186631
+s285108736.362624
+e285108736.441426
 r1
 xCompileC
 xbuild/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SwitchCell.o
@@ -1558,7 +1559,7 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.gcc.4_0
-lSLF07#2@62"Compile /Users/justbuchanan/Projects/Go Figure/UI/SwitchCell.m278594648#278594648#0(0"0(0#0#54"/Users/justbuchanan/Projects/Go Figure/UI/SwitchCell.m4300885448#1839"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/UI/SwitchCell.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SwitchCell.o"0#
+lSLF07#2@62"Compile /Users/justbuchanan/Projects/Go Figure/UI/SwitchCell.m285108736#285108737#0(0"0(0#0#54"/Users/justbuchanan/Projects/Go Figure/UI/SwitchCell.m4300885448#1839"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/UI/SwitchCell.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SwitchCell.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/ValueCell.o" "/Users/justbuchanan/Desktop/Go Figure 2/UI/ValueCell.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
 s278643338.077780
@@ -1574,8 +1575,8 @@ xcom.apple.compilers.gcc.4_0
 lSLF07#2@62"Compile /Users/justbuchanan/Desktop/Go Figure 2/UI/ValueCell.m278643338#278643338#0(0"0(0#0#54"/Users/justbuchanan/Desktop/Go Figure 2/UI/ValueCell.m4300885448#1848"    cd "/Users/justbuchanan/Desktop/Go Figure 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-goylbnyicfoavdcjhktugsvctxgj/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Desktop/Go Figure 2/UI/ValueCell.m" -o "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/ValueCell.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/ValueCell.o" "/Users/justbuchanan/Projects/Go Figure/UI/ValueCell.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-s278594648.106446
-e278594648.168571
+s285108736.398414
+e285108736.464377
 r1
 xCompileC
 xbuild/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/ValueCell.o
@@ -1584,7 +1585,7 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.gcc.4_0
-lSLF07#2@61"Compile /Users/justbuchanan/Projects/Go Figure/UI/ValueCell.m278594648#278594648#0(0"0(0#0#53"/Users/justbuchanan/Projects/Go Figure/UI/ValueCell.m4300885448#1837"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/UI/ValueCell.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/ValueCell.o"0#
+lSLF07#2@61"Compile /Users/justbuchanan/Projects/Go Figure/UI/ValueCell.m285108736#285108737#0(0"0(0#0#53"/Users/justbuchanan/Projects/Go Figure/UI/ValueCell.m4300885448#1837"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/UI/ValueCell.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/ValueCell.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/main.o" "/Users/justbuchanan/Desktop/Go Figure 2/Other Sources/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
 s278643338.608292
@@ -1600,8 +1601,8 @@ xcom.apple.compilers.gcc.4_0
 lSLF07#2@68"Compile /Users/justbuchanan/Desktop/Go Figure 2/Other Sources/main.m278643338#278643338#0(0"0(0#0#60"/Users/justbuchanan/Desktop/Go Figure 2/Other Sources/main.m4300885448#1849"    cd "/Users/justbuchanan/Desktop/Go Figure 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-goylbnyicfoavdcjhktugsvctxgj/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Desktop/Go Figure 2/Other Sources/main.m" -o "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/main.o"0#
 
 CCompileC "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/main.o" "/Users/justbuchanan/Projects/Go Figure/Other Sources/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_0
-s278594648.564593
-e278594648.616520
+s285108736.796276
+e285108736.835004
 r1
 xCompileC
 xbuild/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/main.o
@@ -1610,7 +1611,7 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.gcc.4_0
-lSLF07#2@67"Compile /Users/justbuchanan/Projects/Go Figure/Other Sources/main.m278594648#278594648#0(0"0(0#0#59"/Users/justbuchanan/Projects/Go Figure/Other Sources/main.m4300885448#1838"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/Other Sources/main.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/main.o"0#
+lSLF07#2@67"Compile /Users/justbuchanan/Projects/Go Figure/Other Sources/main.m285108736#285108737#0(0"0(0#0#59"/Users/justbuchanan/Projects/Go Figure/Other Sources/main.m4300885448#1838"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -include /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch -c "/Users/justbuchanan/Projects/Go Figure/Other Sources/main.m" -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/main.o"0#
 
 CCompileXIB "/Users/justbuchanan/Desktop/Go Figure 2/Resources/RPNCalculatorView.xib"
 s278643336.326336
@@ -1621,12 +1622,12 @@ x/Users/justbuchanan/Desktop/Go Figure 2/Resources/RPNCalculatorView.xib
 lSLF07#2@42"CompileXIB Resources/RPNCalculatorView.xib278643336#278643337#0(0"0(0#0#71"/Users/justbuchanan/Desktop/Go Figure 2/Resources/RPNCalculatorView.xib4300885448#504"    cd "/Users/justbuchanan/Desktop/Go Figure 2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/RPNCalculatorView.nib" "/Users/justbuchanan/Desktop/Go Figure 2/Resources/RPNCalculatorView.xib"0#
 
 CCompileXIB "/Users/justbuchanan/Projects/Go Figure/Resources/RPNCalculatorView.xib"
-s278640137.582960
-e278640138.339084
+s285108734.751478
+e285108735.480600
 r1
 xCompileXIB
 x/Users/justbuchanan/Projects/Go Figure/Resources/RPNCalculatorView.xib
-lSLF07#2@42"CompileXIB Resources/RPNCalculatorView.xib278640137#278640138#0(0"0(0#0#70"/Users/justbuchanan/Projects/Go Figure/Resources/RPNCalculatorView.xib4300885448#501"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/RPNCalculatorView.nib" "/Users/justbuchanan/Projects/Go Figure/Resources/RPNCalculatorView.xib"0#
+lSLF07#2@42"CompileXIB Resources/RPNCalculatorView.xib285108734#285108735#0(0"0(0#0#70"/Users/justbuchanan/Projects/Go Figure/Resources/RPNCalculatorView.xib4300885448#501"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/RPNCalculatorView.nib" "/Users/justbuchanan/Projects/Go Figure/Resources/RPNCalculatorView.xib"0#
 
 CCopyPNGFile "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/Background6.png" Images/Background6.png
 s278643335.720309
@@ -1737,112 +1738,112 @@ xImages/yx.png
 lSLF07#2@70"CopyPNGFile "build/Ad Hoc-iphoneos/Go Figure.app/yx.png" Images/yx.png278643336#278643336#0(0"0(0#0#53"/Users/justbuchanan/Desktop/Go Figure 2/Images/yx.png4300885448#571"    cd "/Users/justbuchanan/Desktop/Go Figure 2"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Desktop/Go Figure 2/Images/yx.png" "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/yx.png"0#
 
 CCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Background6.png" Images/Background6.png
-s277950492.994995
-e277950493.616535
+s285108733.808170
+e285108734.445738
 r1
 xCopyPNGFile
 x/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Background6.png
 xImages/Background6.png
-lSLF07#2@88"CopyPNGFile "build/Ad Hoc-iphoneos/Go Figure.app/Background6.png" Images/Background6.png277950492#277950493#0(0"0(0#0#61"/Users/justbuchanan/Projects/Go Figure/Images/Background6.png4300882208#586"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/Background6.png" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Background6.png"0#
+lSLF07#2@88"CopyPNGFile "build/Ad Hoc-iphoneos/Go Figure.app/Background6.png" Images/Background6.png285108733#285108734#0(0"0(0#0#61"/Users/justbuchanan/Projects/Go Figure/Images/Background6.png4300885448#586"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/Background6.png" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Background6.png"0#
 
 CCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Default.png" Images/Default.png
-s277950492.994415
-e277950493.424223
+s285108733.807303
+e285108734.256251
 r1
 xCopyPNGFile
 x/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Default.png
 xImages/Default.png
-lSLF07#2@80"CopyPNGFile "build/Ad Hoc-iphoneos/Go Figure.app/Default.png" Images/Default.png277950492#277950493#0(0"0(0#0#57"/Users/justbuchanan/Projects/Go Figure/Images/Default.png4300882208#578"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/Default.png" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Default.png"0#
+lSLF07#2@80"CopyPNGFile "build/Ad Hoc-iphoneos/Go Figure.app/Default.png" Images/Default.png285108733#285108734#0(0"0(0#0#57"/Users/justbuchanan/Projects/Go Figure/Images/Default.png4300885448#578"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/Default.png" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Default.png"0#
 
 CCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/button_down_graphite.png" Images/button_down_graphite.png
-s277950493.627268
-e277950493.651856
+s285108734.445807
+e285108734.473055
 r1
 xCopyPNGFile
 x/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/button_down_graphite.png
 xImages/button_down_graphite.png
-lSLF07#2@106"CopyPNGFile "build/Ad Hoc-iphoneos/Go Figure.app/button_down_graphite.png" Images/button_down_graphite.png277950493#277950493#0(0"0(0#0#70"/Users/justbuchanan/Projects/Go Figure/Images/button_down_graphite.png4300882208#604"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/button_down_graphite.png" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/button_down_graphite.png"0#
+lSLF07#2@106"CopyPNGFile "build/Ad Hoc-iphoneos/Go Figure.app/button_down_graphite.png" Images/button_down_graphite.png285108734#285108734#0(0"0(0#0#70"/Users/justbuchanan/Projects/Go Figure/Images/button_down_graphite.png4300885448#604"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/button_down_graphite.png" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/button_down_graphite.png"0#
 
 CCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_graphite.png" Images/buttun_up_graphite.png
-s277950493.470493
-e277950493.505347
+s285108734.283918
+e285108734.330367
 r1
 xCopyPNGFile
 x/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_graphite.png
 xImages/buttun_up_graphite.png
-lSLF07#2@102"CopyPNGFile "build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_graphite.png" Images/buttun_up_graphite.png277950493#277950493#0(0"0(0#0#68"/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_graphite.png4300882208#600"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_graphite.png" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_graphite.png"0#
+lSLF07#2@102"CopyPNGFile "build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_graphite.png" Images/buttun_up_graphite.png285108734#285108734#0(0"0(0#0#68"/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_graphite.png4300885448#600"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_graphite.png" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_graphite.png"0#
 
 CCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_long_graphite.png" Images/buttun_up_long_graphite.png
-s277950493.529222
-e277950493.556343
+s285108734.354047
+e285108734.379799
 r1
 xCopyPNGFile
 x/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_long_graphite.png
 xImages/buttun_up_long_graphite.png
-lSLF07#2@112"CopyPNGFile "build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_long_graphite.png" Images/buttun_up_long_graphite.png277950493#277950493#0(0"0(0#0#73"/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_long_graphite.png4300882208#610"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_long_graphite.png" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_long_graphite.png"0#
+lSLF07#2@112"CopyPNGFile "build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_long_graphite.png" Images/buttun_up_long_graphite.png285108734#285108734#0(0"0(0#0#73"/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_long_graphite.png4300885448#610"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_long_graphite.png" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_long_graphite.png"0#
 
 CCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_long_orange.png" Images/buttun_up_long_orange.png
-s277950493.556425
-e277950493.627081
+s285108734.379884
+e285108734.408185
 r1
 xCopyPNGFile
 x/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_long_orange.png
 xImages/buttun_up_long_orange.png
-lSLF07#2@108"CopyPNGFile "build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_long_orange.png" Images/buttun_up_long_orange.png277950493#277950493#0(0"0(0#0#71"/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_long_orange.png4300882208#606"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_long_orange.png" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_long_orange.png"0#
+lSLF07#2@108"CopyPNGFile "build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_long_orange.png" Images/buttun_up_long_orange.png285108734#285108734#0(0"0(0#0#71"/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_long_orange.png4300885448#606"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_long_orange.png" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_long_orange.png"0#
 
 CCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_white.png" Images/buttun_up_white.png
-s277950493.505431
-e277950493.529145
+s285108734.330454
+e285108734.353966
 r1
 xCopyPNGFile
 x/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_white.png
 xImages/buttun_up_white.png
-lSLF07#2@96"CopyPNGFile "build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_white.png" Images/buttun_up_white.png277950493#277950493#0(0"0(0#0#65"/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_white.png4300882208#594"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_white.png" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_white.png"0#
+lSLF07#2@96"CopyPNGFile "build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_white.png" Images/buttun_up_white.png285108734#285108734#0(0"0(0#0#65"/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_white.png4300885448#594"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/buttun_up_white.png" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/buttun_up_white.png"0#
 
 CCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/i.png" Images/i.png
-s277950493.424306
-e277950493.470413
+s285108734.256339
+e285108734.283832
 r1
 xCopyPNGFile
 x/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/i.png
 xImages/i.png
-lSLF07#2@68"CopyPNGFile "build/Ad Hoc-iphoneos/Go Figure.app/i.png" Images/i.png277950493#277950493#0(0"0(0#0#51"/Users/justbuchanan/Projects/Go Figure/Images/i.png4300882208#566"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/i.png" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/i.png"0#
+lSLF07#2@68"CopyPNGFile "build/Ad Hoc-iphoneos/Go Figure.app/i.png" Images/i.png285108734#285108734#0(0"0(0#0#51"/Users/justbuchanan/Projects/Go Figure/Images/i.png4300885448#566"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/i.png" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/i.png"0#
 
 CCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/icon.png" Images/icon.png
-s277950493.651952
-e277950493.744539
+s285108734.446634
+e285108734.492537
 r1
 xCopyPNGFile
 x/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/icon.png
 xImages/icon.png
-lSLF07#2@74"CopyPNGFile "build/Ad Hoc-iphoneos/Go Figure.app/icon.png" Images/icon.png277950493#277950493#0(0"0(0#0#54"/Users/justbuchanan/Projects/Go Figure/Images/icon.png4300882208#572"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/icon.png" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/icon.png"0#
+lSLF07#2@74"CopyPNGFile "build/Ad Hoc-iphoneos/Go Figure.app/icon.png" Images/icon.png285108734#285108734#0(0"0(0#0#54"/Users/justbuchanan/Projects/Go Figure/Images/icon.png4300885448#572"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/icon.png" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/icon.png"0#
 
 CCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/sqrt.png" Images/sqrt.png
-s277950493.929160
-e277950493.954481
+s285108734.859601
+e285108734.890089
 r1
 xCopyPNGFile
 x/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/sqrt.png
 xImages/sqrt.png
-lSLF07#2@74"CopyPNGFile "build/Ad Hoc-iphoneos/Go Figure.app/sqrt.png" Images/sqrt.png277950493#277950493#0(0"0(0#0#54"/Users/justbuchanan/Projects/Go Figure/Images/sqrt.png4300882208#572"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/sqrt.png" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/sqrt.png"0#
+lSLF07#2@74"CopyPNGFile "build/Ad Hoc-iphoneos/Go Figure.app/sqrt.png" Images/sqrt.png285108734#285108734#0(0"0(0#0#54"/Users/justbuchanan/Projects/Go Figure/Images/sqrt.png4300885448#572"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/sqrt.png" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/sqrt.png"0#
 
 CCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/xroot.png" Images/xroot.png
-s277950493.894295
-e277950493.929079
+s285108734.828697
+e285108734.859520
 r1
 xCopyPNGFile
 x/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/xroot.png
 xImages/xroot.png
-lSLF07#2@76"CopyPNGFile "build/Ad Hoc-iphoneos/Go Figure.app/xroot.png" Images/xroot.png277950493#277950493#0(0"0(0#0#55"/Users/justbuchanan/Projects/Go Figure/Images/xroot.png4300882208#574"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/xroot.png" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/xroot.png"0#
+lSLF07#2@76"CopyPNGFile "build/Ad Hoc-iphoneos/Go Figure.app/xroot.png" Images/xroot.png285108734#285108734#0(0"0(0#0#55"/Users/justbuchanan/Projects/Go Figure/Images/xroot.png4300885448#574"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/xroot.png" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/xroot.png"0#
 
 CCopyPNGFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/yx.png" Images/yx.png
-s277950493.616611
-e277950493.653126
+s285108734.408269
+e285108734.445534
 r1
 xCopyPNGFile
 x/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/yx.png
 xImages/yx.png
-lSLF07#2@70"CopyPNGFile "build/Ad Hoc-iphoneos/Go Figure.app/yx.png" Images/yx.png277950493#277950493#0(0"0(0#0#52"/Users/justbuchanan/Projects/Go Figure/Images/yx.png4300882208#568"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/yx.png" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/yx.png"0#
+lSLF07#2@70"CopyPNGFile "build/Ad Hoc-iphoneos/Go Figure.app/yx.png" Images/yx.png285108734#285108734#0(0"0(0#0#52"/Users/justbuchanan/Projects/Go Figure/Images/yx.png4300885448#568"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/justbuchanan/Projects/Go Figure/Images/yx.png" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/yx.png"0#
 
 CCopyPlistFile "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/Entitlements.plist" Resources/Entitlements.plist
 s278643336.273442
@@ -1854,13 +1855,13 @@ xResources/Entitlements.plist
 lSLF07#2@33"Copy Resources/Entitlements.plist278643336#278643336#0(0"0(0#0#68"/Users/justbuchanan/Desktop/Go Figure 2/Resources/Entitlements.plist4300885448#398"    cd "/Users/justbuchanan/Desktop/Go Figure 2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Resources/Entitlements.plist --outdir "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app"0#
 
 CCopyPlistFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Entitlements.plist" Resources/Entitlements.plist
-s277950493.653185
-e277950493.849311
+s285108734.473146
+e285108734.748556
 r1
 xCopyPlistFile
 x/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Entitlements.plist
 xResources/Entitlements.plist
-lSLF07#2@33"Copy Resources/Entitlements.plist277950493#277950493#0(0"0(0#0#67"/Users/justbuchanan/Projects/Go Figure/Resources/Entitlements.plist4300882208#396"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Resources/Entitlements.plist --outdir "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app"0#
+lSLF07#2@33"Copy Resources/Entitlements.plist285108734#285108734#0(0"0(0#0#67"/Users/justbuchanan/Projects/Go Figure/Resources/Entitlements.plist4300885448#396"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Resources/Entitlements.plist --outdir "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app"0#
 
 CCopyStringsFile "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/Errors.strings" Resources/Errors.strings
 s278643336.299918
@@ -1882,32 +1883,32 @@ xResources/Localizable.strings
 lSLF07#2@34"Copy Resources/Localizable.strings278643336#278643336#0(0"0(0#0#69"/Users/justbuchanan/Desktop/Go Figure 2/Resources/Localizable.strings4300885448#472"    cd "/Users/justbuchanan/Desktop/Go Figure 2"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary Resources/Localizable.strings --outdir "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app"0#
 
 CCopyStringsFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Errors.strings" Resources/Errors.strings
-s277950493.744639
-e277950493.843350
+s285108734.492623
+e285108734.751403
 r1
 xCopyStringsFile
 x/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Errors.strings
 xResources/Errors.strings
 oResources/Errors.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
-lSLF07#2@29"Copy Resources/Errors.strings277950493#277950493#0(126"Resources/Errors.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#63"/Users/justbuchanan/Projects/Go Figure/Resources/Errors.strings4300882208#465"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary Resources/Errors.strings --outdir "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app"0#
+lSLF07#2@29"Copy Resources/Errors.strings285108734#285108734#0(126"Resources/Errors.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#63"/Users/justbuchanan/Projects/Go Figure/Resources/Errors.strings4300885448#465"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary Resources/Errors.strings --outdir "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app"0#
 
 CCopyStringsFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Localizable.strings" Resources/Localizable.strings
-s277950493.843437
-e277950493.894220
+s285108734.748636
+e285108734.828611
 r1
 xCopyStringsFile
 x/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Localizable.strings
 xResources/Localizable.strings
-lSLF07#2@34"Copy Resources/Localizable.strings277950493#277950493#0(0"0(0#0#68"/Users/justbuchanan/Projects/Go Figure/Resources/Localizable.strings4300882208#470"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary Resources/Localizable.strings --outdir "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app"0#
+lSLF07#2@34"Copy Resources/Localizable.strings285108734#285108734#0(0"0(0#0#68"/Users/justbuchanan/Projects/Go Figure/Resources/Localizable.strings5129445422878584832#470"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary Resources/Localizable.strings --outdir "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app"0#
 
 CCpResource "build/Ad Hoc-iphoneos/Go Figure.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
-s278643335.675677
-e278643335.719454
+s285108733.773933
+e285108733.807205
 r1
 xCpResource
 xbuild/Ad Hoc-iphoneos/Go Figure.app/ResourceRules.plist
 x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
-lSLF07#2@96"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist278643335#278643335#0(0"0(0#0#91"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist4300885448#512"    cd "/Users/justbuchanan/Desktop/Go Figure 2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app"0#
+lSLF07#2@96"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist285108733#285108733#0(0"0(0#0#91"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist8531300039613640704#510"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app"0#
 
 CCpResource "build/Ad Hoc-iphoneos/Go Figure.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
 s277950492.949362
@@ -1928,13 +1929,13 @@ x/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/Go 
 lSLF07#2@107"GenerateDSYMFile "build/Ad Hoc-iphoneos/Go Figure.app.dSYM" "build/Ad Hoc-iphoneos/Go Figure.app/Go Figure"278643338#278643338#0(0"0(0#0#85"/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/Go Figure4300885448#379"    cd "/Users/justbuchanan/Desktop/Go Figure 2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/Go Figure" -o "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app.dSYM"0#
 
 CGenerateDSYMFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app.dSYM" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Go Figure"
-s278640139.096770
-e278640139.124165
+s285108737.382695
+e285108737.457553
 r1
 xGenerateDSYMFile
 x/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app.dSYM
 x/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Go Figure
-lSLF07#2@107"GenerateDSYMFile "build/Ad Hoc-iphoneos/Go Figure.app.dSYM" "build/Ad Hoc-iphoneos/Go Figure.app/Go Figure"278640139#278640139#0(0"0(0#0#84"/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Go Figure4300885448#376"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Go Figure" -o "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app.dSYM"0#
+lSLF07#2@107"GenerateDSYMFile "build/Ad Hoc-iphoneos/Go Figure.app.dSYM" "build/Ad Hoc-iphoneos/Go Figure.app/Go Figure"285108737#285108737#0(0"0(0#0#84"/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Go Figure4300885448#376"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Go Figure" -o "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app.dSYM"0#
 
 CLd "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/Go Figure" normal armv6
 s278643338.869588
@@ -1947,14 +1948,14 @@ xarmv6
 lSLF07#2@90"Link /Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/Go Figure278643338#278643338#0(0"0(0#0#0"4300885448#924"    cd "/Users/justbuchanan/Desktop/Go Figure 2"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.2    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk "-L/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos" "-F/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos" -filelist "/Users/justbuchanan/Desktop/Go Figure 2/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/Go Figure.LinkFileList" -mmacosx-version-min=10.5 -dead_strip -miphoneos-version-min=3.1.2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/Go Figure"0#
 
 CLd "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Go Figure" normal armv6
-s278640138.818051
-e278640139.096580
+s285108737.015303
+e285108737.382605
 r1
 xLd
 x/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Go Figure
 xnormal
 xarmv6
-lSLF07#2@89"Link /Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Go Figure278640138#278640139#0(0"0(0#0#0"4300885448#919"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.2    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk "-L/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" -filelist "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/Go Figure.LinkFileList" -mmacosx-version-min=10.5 -dead_strip -miphoneos-version-min=3.1.2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Go Figure"0#
+lSLF07#2@89"Link /Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Go Figure285108737#285108737#0(0"0(0#0#0"4300885448#919"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.2    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk "-L/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" -filelist "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/Go Figure.LinkFileList" -mmacosx-version-min=10.5 -dead_strip -miphoneos-version-min=3.1.2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Go Figure"0#
 
 CProcessInfoPlistFile "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/Info.plist" Resources/Info.plist
 s278643335.676866
@@ -1966,17 +1967,17 @@ xResources/Info.plist
 lSLF07#2@28"Process Resources/Info.plist278643335#278643335#0(0"0(0#0#60"/Users/justbuchanan/Desktop/Go Figure 2/Resources/Info.plist4300885448#585"    cd "/Users/justbuchanan/Desktop/Go Figure 2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Resources/Info.plist -genpkginfo "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/ResourceRules.plist" -o "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/Info.plist"0#
 
 CProcessInfoPlistFile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Info.plist" Resources/Info.plist
-s277950492.952534
-e277950492.993816
+s285108733.783677
+e285108733.795500
 r1
 xProcessInfoPlistFile
 x/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Info.plist
 xResources/Info.plist
-lSLF07#2@28"Process Resources/Info.plist277950492#277950492#0(0"0(0#0#59"/Users/justbuchanan/Projects/Go Figure/Resources/Info.plist4300882208#581"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Resources/Info.plist -genpkginfo "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/ResourceRules.plist" -o "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Info.plist"0#
+lSLF07#2@28"Process Resources/Info.plist285108733#285108733#0(0"0(0#0#59"/Users/justbuchanan/Projects/Go Figure/Resources/Info.plist4300885448#581"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Resources/Info.plist -genpkginfo "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/ResourceRules.plist" -o "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Info.plist"0#
 
 CProcessPCH /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch.gch "Other Sources/Precision_RPN_Prefix.pch" normal armv6 objective-c com.apple.compilers.gcc.4_0
-s278594647.301548
-e278594647.798567
+s285108735.480837
+e285108736.101348
 r1
 xProcessPCH
 x/var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch.gch
@@ -1985,7 +1986,7 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.gcc.4_0
-lSLF07#2@49"Precompile Other Sources/Precision_RPN_Prefix.pch278594647#278594647#0(0"0(0#0#77"/Users/justbuchanan/Projects/Go Figure/Other Sources/Precision_RPN_Prefix.pch4300885448#1735"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -c "/Users/justbuchanan/Projects/Go Figure/Other Sources/Precision_RPN_Prefix.pch" -o /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch.gch0#
+lSLF07#2@49"Precompile Other Sources/Precision_RPN_Prefix.pch285108735#285108737#0(0"0(0#0#77"/Users/justbuchanan/Projects/Go Figure/Other Sources/Precision_RPN_Prefix.pch4300885448#1735"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.0 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.2 -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-generated-files.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-own-target-headers.hmap" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-all-target-headers.hmap" -iquote "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure-project-headers.hmap" "-F/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos" "-I/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/include" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources/armv6" "-I/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/DerivedSources" -c "/Users/justbuchanan/Projects/Go Figure/Other Sources/Precision_RPN_Prefix.pch" -o /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-alhxufsqjhftzqchlawsssblwcwq/Precision_RPN_Prefix.pch.gch0#
 
 CProcessPCH /var/folders/uK/uKOyK92YEHiYUQ1AcPVTTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Precision_RPN_Prefix-goylbnyicfoavdcjhktugsvctxgj/Precision_RPN_Prefix.pch.gch "Other Sources/Precision_RPN_Prefix.pch" normal armv6 objective-c com.apple.compilers.gcc.4_0
 s278643337.221759
@@ -2032,13 +2033,13 @@ x/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/emb
 lSLF07#2@204"ProcessProductPackaging "/Users/justbuchanan/Library/MobileDevice/Provisioning Profiles/95D164AB-6A7A-4B3F-AAF9-37092D10B64C.mobileprovision" "build/Ad Hoc-iphoneos/Go Figure.app/embedded.mobileprovision"278643338#278643338#0(0"0(0#0#100"/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/embedded.mobileprovision4300885448#439"    cd "/Users/justbuchanan/Desktop/Go Figure 2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/justbuchanan/Library/MobileDevice/Provisioning Profiles/95D164AB-6A7A-4B3F-AAF9-37092D10B64C.mobileprovision" -o "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app/embedded.mobileprovision"0#
 
 CProcessProductPackaging "/Users/justbuchanan/Library/MobileDevice/Provisioning Profiles/95D164AB-6A7A-4B3F-AAF9-37092D10B64C.mobileprovision" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/embedded.mobileprovision"
-s278595707.583908
-e278595707.585571
+s285108737.457640
+e285108737.458776
 r1
 xProcessProductPackaging
 x/Users/justbuchanan/Library/MobileDevice/Provisioning Profiles/95D164AB-6A7A-4B3F-AAF9-37092D10B64C.mobileprovision
 x/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/embedded.mobileprovision
-lSLF07#2@204"ProcessProductPackaging "/Users/justbuchanan/Library/MobileDevice/Provisioning Profiles/95D164AB-6A7A-4B3F-AAF9-37092D10B64C.mobileprovision" "build/Ad Hoc-iphoneos/Go Figure.app/embedded.mobileprovision"278595707#278595707#0(0"0(0#0#99"/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/embedded.mobileprovision4300885448#437"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/justbuchanan/Library/MobileDevice/Provisioning Profiles/95D164AB-6A7A-4B3F-AAF9-37092D10B64C.mobileprovision" -o "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/embedded.mobileprovision"0#
+lSLF07#2@204"ProcessProductPackaging "/Users/justbuchanan/Library/MobileDevice/Provisioning Profiles/95D164AB-6A7A-4B3F-AAF9-37092D10B64C.mobileprovision" "build/Ad Hoc-iphoneos/Go Figure.app/embedded.mobileprovision"285108737#285108737#0(0"0(0#0#99"/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/embedded.mobileprovision4300885448#437"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/justbuchanan/Library/MobileDevice/Provisioning Profiles/95D164AB-6A7A-4B3F-AAF9-37092D10B64C.mobileprovision" -o "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/embedded.mobileprovision"0#
 
 CProcessProductPackaging "/Users/justbuchanan/Library/MobileDevice/Provisioning Profiles/E6BCB56D-FCD5-41F6-AB70-3145B95A6CFB.mobileprovision" "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/embedded.mobileprovision"
 s277950496.110190
@@ -2050,13 +2051,13 @@ x/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/embe
 lSLF07#2@204"ProcessProductPackaging "/Users/justbuchanan/Library/MobileDevice/Provisioning Profiles/E6BCB56D-FCD5-41F6-AB70-3145B95A6CFB.mobileprovision" "build/Ad Hoc-iphoneos/Go Figure.app/embedded.mobileprovision"277950496#277950496#0(0"0(0#0#99"/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/embedded.mobileprovision4300882208#437"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/justbuchanan/Library/MobileDevice/Provisioning Profiles/E6BCB56D-FCD5-41F6-AB70-3145B95A6CFB.mobileprovision" -o "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/embedded.mobileprovision"0#
 
 CProcessProductPackaging "/Users/justbuchanan/Projects/Go Figure/Resources/Entitlements.plist" "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure.xcent"
-s277950496.111496
-e277950496.112632
+s285108737.487309
+e285108737.505500
 r1
 xProcessProductPackaging
 x/Users/justbuchanan/Projects/Go Figure/Resources/Entitlements.plist
 x/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure.xcent
-lSLF07#2@124"ProcessProductPackaging Resources/Entitlements.plist "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure.xcent"277950496#277950496#0(0"0(0#0#108"/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure.xcent4300882208#424"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/justbuchanan/Projects/Go Figure/Resources/Entitlements.plist" -entitlements -format xml -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure.xcent"0#
+lSLF07#2@124"ProcessProductPackaging Resources/Entitlements.plist "build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure.xcent"285108737#285108737#0(0"0(0#0#108"/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure.xcent4300885448#424"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/justbuchanan/Projects/Go Figure/Resources/Entitlements.plist" -entitlements -format xml -o "/Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure.xcent"0#
 
 CTouch "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app"
 s278643338.971288
@@ -2067,10 +2068,10 @@ x/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app
 lSLF07#2@81"Touch /Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app278643338#278643338#0(0"0(0#0#0"4300885448#273"    cd "/Users/justbuchanan/Desktop/Go Figure 2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/justbuchanan/Desktop/Go Figure 2/build/Ad Hoc-iphoneos/Go Figure.app"0#
 
 CTouch "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app"
-s278640139.124348
-e278640139.126862
+s285108737.458825
+e285108737.487220
 r1
 xTouch
 x/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app
-lSLF07#2@80"Touch /Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app278640139#278640139#0(0"0(0#0#0"4300885448#271"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app"0#
+lSLF07#2@80"Touch /Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app285108737#285108737#0(0"0(0#0#0"4300885448#271"    cd "/Users/justbuchanan/Projects/Go Figure"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app"0#
 

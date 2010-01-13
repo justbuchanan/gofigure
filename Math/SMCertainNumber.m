@@ -173,10 +173,6 @@ static SMCertainNumberOperationFunction operationFunctions[] = {
 	self = [super initWithDecimal:(Decimal)(mantissa * pow(10.0f, exponent))];
 	
 	
-	NSLog(@"m=%lf, e=%lf", mantissa, exponent);
-	NSLog(@"2 * pow(10, 2.5) = %f", 2 * pow(10, 2.5));
-	
-	
 	return self;
 }
 

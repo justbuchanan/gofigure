@@ -156,10 +156,27 @@ static SMCertainNumberOperationFunction operationFunctions[] = {
 
 - (id)initWithString:(NSString *)string
 {
-	double value;
-	NSScanner *scanner = [NSScanner scannerWithString:string];
-	[scanner scanDouble:&value];
-	self = [super initWithDecimal:value];
+	double mantissa;
+	double exponent = 0;
+	
+	NSArray *parts = [string componentsSeparatedByString:@"E"];
+	
+	NSScanner *scanner = [NSScanner scannerWithString:[parts objectAtIndex:0]];
+	[scanner scanDouble:&mantissa];
+	
+	if ( [parts count] == 2 )
+	{
+		scanner = [NSScanner scannerWithString:[parts objectAtIndex:1]];
+		[scanner scanDouble:&exponent];
+	}
+	
+	self = [super initWithDecimal:(Decimal)(mantissa * pow(10.0f, exponent))];
+	
+	
+	NSLog(@"m=%lf, e=%lf", mantissa, exponent);
+	NSLog(@"2 * pow(10, 2.5) = %f", 2 * pow(10, 2.5));
+	
+	
 	return self;
 }
 

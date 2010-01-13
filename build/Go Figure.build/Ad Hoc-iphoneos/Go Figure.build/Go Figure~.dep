@@ -1,5 +1,5 @@
 1cf41158fbd9c888db5751df05230b70 21a6889e78f86991400353d86cbf163a ffffffffffffffffffffffffffffffff 323 /Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Go Figure.xcent
-09915985648b0c9697f3c033582167af aee0b9d59cbbf3ff2cc95d0ab205db1c ffffffffffffffffffffffffffffffff 850 /Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app
+09915985652eb90b97f3c033582164ba aee0b9d59cbbf3ff2cc95d0ab205db1c ffffffffffffffffffffffffffffffff 850 /Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app
 00000000000000000000000000000000 d0c01693eeb2b5a75bfde25417f5f015 ffffffffffffffffffffffffffffffff 7904 /Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/embedded.mobileprovision
 00000000000000000000000000000000 59dcbba8c308b3bbf30c2ce90efd5170 ffffffffffffffffffffffffffffffff 902 /Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/sqrt.png
 00000000000000000000000000000000 68f8ea245a59f0451a6e970058a852fe ffffffffffffffffffffffffffffffff 1047 /Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/xroot.png
@@ -21,7 +21,7 @@
 00000000000000000000000000000000 1cf41158fbd9c888db5751df05230b70 ffffffffffffffffffffffffffffffff 704 /Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Info.plist
 00000000000000000000000000000000 b830ce41a705ff252fac9ded43c5c7f0 ffffffffffffffffffffffffffffffff 485 /Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/ResourceRules.plist
 00000000000000000000000000000000 c304990316de7b5980fdd60453404ff9 ffffffffffffffffffffffffffffffff 102 /Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app.dSYM
-42d264f2e8fd816f76d7cdf2322edb2e 18602d16197d2fd3aeb248a7a42a6a3a ffffffffffffffffffffffffffffffff 103848 /Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Go Figure
+42d264f2e95834f276d7cdf2322ed83b 18602d16197d2fd3aeb248a7a42a6a3a ffffffffffffffffffffffffffffffff 103848 /Users/justbuchanan/Projects/Go Figure/build/Ad Hoc-iphoneos/Go Figure.app/Go Figure
 efe1a588c067baa971a54c74e8ba465d b67e460dc7b25b956644441fe9b4de01 ffffffffffffffffffffffffffffffff 13576 /Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/ShakeView.o
 efe1a5888ad1814e71a54c74e8ba4651 4846f4a5a6a661e5efb78f94678d9c81 ffffffffffffffffffffffffffffffff 11732 /Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/NSString+FloatParsing.o
 efe1a588c00bb8e271a54c74e8ba10e4 8446adfd67b4c9ff3a7c7be32f8d963e ffffffffffffffffffffffffffffffff 62112 /Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/Precision_RPNAppDelegate.o
@@ -29,7 +29,7 @@ efe1a588c0104b8771a54c74e8ba43b5 94ff5bffc77ca7349c5b48a89236f414 ffffffffffffff
 efe1a5888ad53adf71a54c74e8ba7ab6 f06cc159122a9086b805ed1d965a2612 ffffffffffffffffffffffffffffffff 42756 /Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMSigFigNumber.o
 efe1a588c03f022e71a54c74e8ba15a8 71019794e123fd34c631989b81e1bd96 ffffffffffffffffffffffffffffffff 41228 /Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMRPNCalculator.o
 efe1a5888abd73dc71a54c74e8ba4f23 735e295caff0516d70dc8d42095d1585 ffffffffffffffffffffffffffffffff 16560 /Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMNumber.o
-efe1a5888ac28ec171a54c74e8ba7f5c 6734d8d67aab7aa56ebaaf7444c12670 ffffffffffffffffffffffffffffffff 31184 /Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMCertainNumber.o
+efe1a5888b673b5c71a54c74e8ba7c49 6734d8d67aab7aa56ebaaf7444c12670 ffffffffffffffffffffffffffffffff 32040 /Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/SMCertainNumber.o
 efe1a588c06c38f071a54c74e8ba7dff eae2473578ca95f803d018a566b0536e ffffffffffffffffffffffffffffffff 5432 /Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/JBAngleUnit.o
 efe1a5888ada281471a54c74e8ba41e6 0d116cc9d2986df13cbe937cf893b3c9 ffffffffffffffffffffffffffffffff 4492 /Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/FloatToText.o
 efe1a5888ad3be5271a54c74e8ba4c39 cb300e0c3b751306ebbcda6baf0b2e5a ffffffffffffffffffffffffffffffff 9276 /Users/justbuchanan/Projects/Go Figure/build/Go Figure.build/Ad Hoc-iphoneos/Go Figure.build/Objects-normal/armv6/Decimal.o
